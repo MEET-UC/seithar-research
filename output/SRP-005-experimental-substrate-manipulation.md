@@ -16,20 +16,157 @@ The ethical status of these programs is not in question. The empirical status is
 
 ## SCT Reference Key
 
-| Code | Domain | Description |
-|------|--------|-------------|
-| SCT-001 | Chemical/Pharmacological Substrate Intervention | Direct alteration of neurochemical state to modify cognition |
-| SCT-002 | Physiological Substrate Intervention | Electrical, surgical, or physical modification of neural architecture |
-| SCT-003 | Narrative Infrastructure Capture | Control of information channels to shape available inputs |
-| SCT-004 | Interrogation & Coercive Cognitive Extraction | Forced state changes to extract or implant information |
-| SCT-005 | Psychographic Targeting & Precision Delivery | Profiling cognitive vulnerabilities for individualized payload delivery |
-| SCT-007 | Environmental Cognitive Architecture | Construction of total informational environments that shape cognition systemically |
+### Canonical Taxonomy (SCT-001 through SCT-007)
+
+| Code | Domain | Cyber Analog | Cognitive Analog |
+|------|--------|-------------|-----------------|
+| SCT-001 | Emotional Hijacking | Urgency in phishing | Outrage farming, fear-based compliance |
+| SCT-002 | Information Asymmetry Exploitation | Zero-day exploits | Selective disclosure, controlled revelation |
+| SCT-003 | Authority Fabrication | Certificate spoofing | Fake experts, astroturfing, narrative laundering |
+| SCT-004 | Social Proof Manipulation | Watering hole attacks | Bot consensus networks, manufactured agreement |
+| SCT-005 | Identity Targeting | Targeted spearphishing | Identity-based narrative capture, psychographic exploitation |
+| SCT-006 | Temporal Manipulation | Session hijacking | News cycle exploitation, manufactured urgency |
+| SCT-007 | Recursive Infection | Worms, supply chain attacks | Self-replicating memetic structures, viral narrative propagation |
+
+### Expanded Taxonomy (SCT-008 through SCT-012)
+
+*The following codes were developed during analysis of historical substrate manipulation programs documented in this paper. The canonical SCT-001 through SCT-007 taxonomy addresses informational and memetic attack vectors operating through the cognitive processing layer. The historical record reveals five additional attack categories that operate below, around, or against the informational layer itself — targeting the physical substrate, the neurochemical environment, the sensory input channels, the social trust infrastructure, and the subject's own behavioral outputs. These require dedicated codes.*
+
+---
+
+#### SCT-008 — Direct Substrate Intervention
+
+**Name:** Direct Substrate Intervention
+**Domain:** Physical/electrical modification of neural hardware bypassing the informational layer entirely
+
+**Description:** SCT-008 captures techniques that modify the cognitive substrate through direct physical or electrical action on neural tissue, bypassing all informational processing. The subject does not receive information, evaluate a claim, or experience persuasion. The intervention operates on the hardware layer — the neural substrate itself — producing behavioral or cognitive state changes without engaging the cognitive architecture that processes information. The subject's narrative cognition is not targeted; it is *circumvented*.
+
+**Cyber Analog:** Hardware implant / firmware rootkit. A hardware-level compromise that operates below the operating system, invisible to all software-layer defenses. The OS continues to report normal operation while the hardware executes unauthorized instructions. No amount of software patching, firewall configuration, or log analysis will detect a hardware implant because it operates on a layer the software cannot inspect.
+
+**Cognitive Analog:** Delgado's stimoceiver (direct electrode stimulation producing involuntary behavior), Cameron's intensive ECT protocols (electrical demolition of cognitive architecture), transcranial magnetic stimulation (TMS), deep brain stimulation (DBS), and any future neurotechnology that modifies neural function through physical rather than informational means. The defining feature: the subject's cognitive defense systems — skepticism, source evaluation, identity coherence — are irrelevant because the intervention never enters the cognitive processing pipeline.
+
+**Indicators:**
+- Behavioral changes with no corresponding informational input or decision event
+- Subject confabulates autonomous explanations for externally-induced behaviors (Delgado confabulation effect)
+- Cognitive or personality changes following medical/surgical procedures that exceeded stated scope
+- Behavioral outputs inconsistent with subject's stated beliefs or prior behavioral patterns, with subject unable to identify the cause of the discrepancy
+
+**Key finding from historical record:** The confabulation principle. When SCT-008 intervention produces behavior, the subject's narrative cognition generates post-hoc explanations attributing the behavior to autonomous decision-making. This means SCT-008 compromise is structurally undetectable by the compromised substrate through introspection. Defense requires external observation or instrumentation — the substrate cannot audit its own hardware layer.
+
+**Historical programs:** Delgado's Stimoceiver (Program 5), Cameron's ECT depatterning protocols (Program 4, Phase 1)
+
+---
+
+#### SCT-009 — Chemical Substrate Disruption
+
+**Name:** Chemical Substrate Disruption
+**Domain:** Pharmacological modification of neurochemical state to alter cognitive processing characteristics
+
+**Description:** SCT-009 captures techniques that modify cognitive function by altering the neurochemical environment in which cognition occurs. Unlike SCT-008 (which modifies the hardware), SCT-009 modifies the *operating environment* — the neurochemical milieu that determines processing speed, emotional valence, suggestibility, memory formation, and cognitive coherence. The substrate's architecture remains intact but its operational parameters are shifted. The analog: you haven't rewritten the code, but you've changed the clock speed, the memory allocation, and the error-handling thresholds.
+
+**Cyber Analog:** Environmental manipulation attack / resource exhaustion. Attacks that don't exploit a specific vulnerability but degrade the system's operating environment — CPU exhaustion, memory pressure, network saturation — causing the system to fail or behave unpredictably under degraded conditions. The system's code is correct; its operating conditions have been made incorrect.
+
+**Cognitive Analog:** LSD administration (MKUltra), barbiturate sedation (ARTICHOKE), scopolamine ("truth serum" attempts), MDMA (empathogenic state induction), alcohol (social engineering lubricant), and critically: *endogenous neurochemical manipulation* — the dopamine loops engineered by social media engagement algorithms, the cortisol spikes induced by outrage content, the oxytocin release triggered by parasocial relationship formation. Modern SCT-009 operations need not administer exogenous chemicals; they engineer environments that cause the substrate to produce its own.
+
+**Indicators:**
+- Cognitive state changes disproportionate to informational input (the subject's emotional response doesn't match the content — it matches the delivery mechanism)
+- Decision-making patterns consistent with altered neurochemical states: increased impulsivity, decreased risk assessment, heightened suggestibility, compromised memory formation
+- "Doom scrolling" and compulsive engagement patterns (behavioral signatures of dopaminergic capture)
+- Post-exposure cognitive states inconsistent with content consumed (feeling anxious/agitated after consuming content that was not objectively threatening — the neurochemical state was the payload, not the information)
+
+**Key finding from historical record:** SCT-009 intervention reliably destabilizes cognitive coherence but cannot direct the reconstruction. MKUltra proved that you can dissolve the existing cognitive architecture chemically, but chemistry provides no mechanism for installing a replacement. Effective restructuring requires SCT-009 as a *preparation phase* — destabilize the substrate, then apply informational-layer techniques (SCT-001 through SCT-007) to the now-vulnerable target. Cameron's protocol was SCT-009 + SCT-008 (chemical disruption + electrical depatterning) followed by SCT-007 (environmental reconstruction via psychic driving). It failed because the reconstruction phase was inadequate, not because the disruption phase was ineffective.
+
+**Historical programs:** MKUltra (Program 1), Project ARTICHOKE (Program 2), Operation Midnight Climax (Program 3), Cameron's drug protocols (Program 4)
+
+---
+
+#### SCT-010 — Sensory Channel Manipulation
+
+**Name:** Sensory Channel Manipulation
+**Domain:** Control, denial, or overload of sensory input channels to modify cognitive processing by controlling what information reaches the substrate
+
+**Description:** SCT-010 captures techniques that target the *input channels* rather than the processing layer or the substrate itself. The attack surface is the boundary between the environment and the cognitive system — the sensory interfaces through which all information must pass. By controlling, denying, or flooding these channels, the operator controls the raw material of cognition without needing to craft specific narratives (SCT-003), fabricate authorities (SCT-003), or target identity structures (SCT-005). The substrate processes whatever it receives; SCT-010 controls what it receives at the most fundamental level.
+
+Three modes of operation:
+
+1. **Sensory deprivation** — Denial of input. The substrate, deprived of external information, begins to generate its own (hallucination, confabulation, identity dissolution). Extended deprivation produces measurable cognitive degradation, increased suggestibility, and temporal disorientation. The substrate *requires* sensory input for calibration; without it, internal models drift from reality.
+
+2. **Sensory overload** — Flooding of input channels beyond processing capacity. The substrate's cognitive resources are consumed by the volume of input, leaving insufficient capacity for critical evaluation, pattern recognition, or deliberate reasoning. The modern implementation: the infinite scroll, the 24-hour news cycle, the notification stream.
+
+3. **Sensory substitution** — Replacement of authentic sensory input with operator-controlled input. The subject perceives an environment constructed by the operator but experiences it as reality. Cameron's looped audio tapes (psychic driving) are crude sensory substitution. Immersive VR environments are sophisticated sensory substitution. Algorithmic feeds are ambient sensory substitution.
+
+**Cyber Analog:** Input validation bypass / DDoS / man-in-the-middle. Sensory deprivation maps to network isolation (air-gapping a system from its expected inputs, causing dependent processes to fail). Sensory overload maps to DDoS (flooding input channels to prevent legitimate processing). Sensory substitution maps to MITM (intercepting and replacing legitimate input with attacker-controlled input while the system believes it's receiving authentic data).
+
+**Cognitive Analog:** Cameron's sensory isolation chambers, CIA sensory deprivation research, Chinese "struggle session" sensory overload (hours of shouting, accusation, and physical stress), Cameron's looped tape messages, solitary confinement (prison system), information overload in digital environments, deep-fake audio/video replacing authentic sensory experience.
+
+**Indicators:**
+- Subject has been in an information-restricted environment (institutional, digital, social) for extended periods
+- Subject's available information channels are controlled by a single source or aligned group of sources
+- Subject reports feeling "overwhelmed" by information volume and has shifted to heuristic rather than analytical processing
+- Subject's sensory environment has been substantially replaced by mediated content (screen time displacing direct experience)
+- Temporal disorientation, difficulty distinguishing recalled media content from recalled direct experience
+
+**Key finding from historical record:** Sensory deprivation produces a *preparation state* analogous to SCT-009 but through an informational rather than chemical mechanism. The substrate, deprived of calibrating input, becomes increasingly suggestible — not because its processing has been chemically altered but because its models of reality are drifting without sensory anchoring. This finding implies that *information diet* is a first-order cognitive defense variable. A substrate with diverse, high-quality sensory input is more resistant to manipulation than one in a restricted or monotonic information environment — regardless of the content of that environment.
+
+**Historical programs:** Cameron's sensory isolation (Program 4), MKUltra sensory deprivation research (Program 1), Chinese thought reform milieu control (Program 8), Cameron's psychic driving tapes (Program 4, Phase 2)
+
+---
+
+#### SCT-011 — Trust Infrastructure Destruction
+
+**Name:** Trust Infrastructure Destruction
+**Domain:** Targeted compromise of social trust networks to disable collective cognitive function
+
+**Description:** SCT-011 captures techniques that target not individual cognition but the *trust relationships* that enable collective cognition. Human cognitive function is not solely individual; it is distributed across social networks through which information is evaluated, validated, and integrated. We outsource cognitive labor to trusted sources — we believe what trusted people tell us, we coordinate action through shared expectations, we maintain shared models of reality through consensus processes. SCT-011 attacks this distributed cognitive infrastructure by destroying the trust links that hold it together.
+
+The critical distinction from SCT-004 (Social Proof Manipulation): SCT-004 *fabricates* false consensus. SCT-011 *destroys* authentic consensus. SCT-004 creates fake trust signals. SCT-011 makes real trust signals unreliable. The effects are complementary but the mechanisms are opposite — SCT-004 adds false signal; SCT-011 destroys true signal.
+
+**Cyber Analog:** Certificate authority compromise / DNS poisoning / PKI destruction. When the infrastructure that authenticates identity and validates trust relationships is compromised, every subsequent communication is suspect — not because any specific message is false, but because the system that distinguishes true from false has been destroyed. A compromised CA doesn't need to forge specific certificates; it makes *all* certificates untrustworthy.
+
+**Cognitive Analog:** COINTELPRO bad-jacketing (fabricating evidence that trusted members are informants), troll farm polarization campaigns (making all information sources suspect), "fake news" epistemology (the weaponization of media distrust to disable source evaluation entirely), Bezmenov's demoralization stage (destruction of the population's trust in its own institutions and epistemological processes), conspiracy theory ecosystems (replacing institutional trust with unfalsifiable alternative trust frameworks).
+
+**Indicators:**
+- Pervasive distrust of all institutional information sources, including previously trusted ones
+- "Trust nihilism" — the belief that no source can be trusted, leading to either paralysis or reliance on charismatic/tribal authority as a substitute for institutional verification
+- Organizations experiencing internal suspicion disproportionate to actual threat (COINTELPRO signature)
+- Inability to form consensus even on empirically verifiable claims
+- Preference for unfalsifiable narrative frameworks over falsifiable institutional claims (conspiracy theory adoption as trust-infrastructure replacement)
+
+**Key finding from historical record:** Trust infrastructure destruction is the highest-leverage cognitive attack because it disables the collective defense mechanism. An individual can be cognitively resilient; a population with destroyed trust infrastructure cannot coordinate its resilience. COINTELPRO destroyed organizations not by changing what members believed but by making them unable to *trust each other enough to act on shared beliefs*. The Soviet demoralization program targeted the same layer at civilizational scale. The modern epidemic of institutional distrust — in media, science, government, and expertise — is the current state of the trust infrastructure under sustained SCT-011 attack from multiple vectors.
+
+**Historical programs:** COINTELPRO (Program 6), Soviet Active Measures / Bezmenov demoralization (Program 9), IRA troll farm operations (Program 10)
+
+---
+
+#### SCT-012 — Commitment Escalation & Self-Binding
+
+**Name:** Commitment Escalation & Self-Binding
+**Domain:** Exploitation of the subject's own behavioral outputs as cognitive capture mechanisms
+
+**Description:** SCT-012 captures techniques that use the subject's own actions, statements, and commitments as the primary mechanism of cognitive restructuring. The principle: once a subject has *publicly acted* in accordance with a belief, the cognitive cost of abandoning that belief increases dramatically. The subject's own behavior becomes the evidence they cite for their belief, creating a self-reinforcing loop. The operator's role is not to install the belief directly but to engineer situations in which the subject's behavior incrementally commits them to the belief — each step small enough to seem voluntary, the cumulative effect producing cognitive capture.
+
+This exploits two well-documented cognitive mechanisms: *consistency bias* (the need to maintain coherence between past and present behavior) and *effort justification* (the tendency to value outcomes proportionally to the effort invested in achieving them). The subject, having invested behavioral effort in a position, becomes psychologically invested in defending it — not because the position was persuasive but because abandoning it would require acknowledging that their prior behavior was misguided.
+
+**Cyber Analog:** Incremental privilege escalation / supply chain compromise. The attacker does not request root access directly; they request a series of small permissions, each reasonable in context, that cumulatively grant total access. Each permission grant is authenticated by the system's own authorization process, making the escalation appear legitimate at every step. The system's own security mechanisms authenticate the compromise.
+
+**Cognitive Analog:** Lifton's "cult of confession" (public self-disclosure as commitment device), foot-in-the-door technique (small requests escalating to large ones), hazing and initiation rituals (effort justification producing group loyalty), Chinese thought reform self-criticism sessions (the subject's own words become the narrative they must defend), radicalization pipelines (each piece of content engagement is a micro-commitment that the algorithm leverages for further escalation), social media profile construction (the accumulated corpus of a user's posts, likes, and shares becomes an identity that the user defends because it represents invested effort).
+
+**Indicators:**
+- Subject defends positions with increasing intensity as their public commitment to those positions increases, independent of new evidence
+- Subject's behavioral history shows a pattern of incremental escalation — each step small, the cumulative trajectory large
+- Subject cites their own past behavior ("I've always believed this," "I've been saying this for years") as evidence for current positions
+- Sunk cost reasoning in belief maintenance ("I can't have been wrong about this for so long")
+- Subject has participated in public rituals, declarations, or group activities that formally commit them to the ideological framework
+
+**Key finding from historical record:** The Chinese thought reform programs used self-criticism and public confession as their primary cognitive restructuring tool — more effective than any drug, shock, or deprivation technique used by Western programs. The subject, having publicly denounced their prior beliefs and affirmed new ones before their peer group, became bound to the new beliefs by the psychological cost of recantation. Cameron tried to install beliefs through passive exposure (looped tapes). The Chinese programs made the subjects install beliefs *through their own active participation*. The active-participation model produced genuine belief change; the passive-exposure model did not. This is the foundational finding: **self-generated commitment is more durable than externally-imposed content**.
+
+**Historical programs:** Lifton's Thought Reform / Chinese revolutionary universities (Program 8), COINTELPRO (using informant behavior to bind informants — once they had informed, the cost of defection was existential) (Program 6)
 
 ---
 
 ## Program 1: MKUltra
 
-### Classification: SCT-001, SCT-004
+### Classification: SCT-009, SCT-010, SCT-001, SCT-004
 
 ### Historical Context
 
@@ -58,9 +195,13 @@ In 1973, DCI Richard Helms ordered the destruction of all MKUltra files. An esti
 
 ### SCT Mapping
 
-**SCT-001 (Chemical/Pharmacological Substrate Intervention):** MKUltra is the canonical SCT-001 program. LSD was treated as a substrate solvent — dissolving existing cognitive structures to create a state of plasticity in which new structures could theoretically be installed. The pharmacological vector bypasses all cognitive defenses because it operates below the level of conscious processing. The subject cannot choose to resist a neurochemical state change.
+**SCT-009 (Chemical Substrate Disruption) [PRIMARY]:** MKUltra is the canonical SCT-009 program. LSD was treated as a substrate solvent — dissolving existing cognitive structures to create a state of plasticity in which new structures could theoretically be installed. The pharmacological vector bypasses all cognitive defenses because it operates below the level of conscious processing. The subject cannot choose to resist a neurochemical state change. This is not SCT-001 (Emotional Hijacking) — the intervention does not exploit an emotional response to informational input; it modifies the neurochemical environment in which *all* processing occurs. The distinction: SCT-001 delivers content that triggers emotion. SCT-009 changes the neurochemical baseline so that *any* content triggers altered processing.
 
-**SCT-004 (Interrogation & Coercive Cognitive Extraction):** Multiple subprojects were explicitly designed to produce interrogation techniques — combinations of drugs, stress, and suggestion intended to extract information from resistant subjects or to program agents for covert operations. The KUBARK Counterintelligence Interrogation manual (1963), while not exclusively an MKUltra product, incorporated findings from the program.
+**SCT-010 (Sensory Channel Manipulation):** MKUltra's sensory deprivation studies targeted the input channels directly. Extended isolation deprived the substrate of calibrating sensory input, causing internal models to drift and producing measurable increases in suggestibility. This is distinct from environmental cognitive architecture (SCT-007) — SCT-010 doesn't construct a controlled environment; it *denies* the environment entirely, forcing the substrate to operate without external input.
+
+**SCT-001 (Emotional Hijacking):** The interrogation applications of MKUltra findings leveraged chemically-induced emotional states — terror, disorientation, paranoia — as coercive mechanisms. The emotional response was not triggered by informational content but by pharmacological intervention; however, the *exploitation* of that emotional state for information extraction maps to SCT-001's core principle: cognitive processing compromised by emotional override.
+
+**SCT-004 (Social Proof Manipulation):** Indirectly applicable. MKUltra's institutional infrastructure — the network of universities, hospitals, and foundations that provided cover — constituted a form of social proof manipulation: the legitimacy of academic and medical institutions was borrowed to authenticate activities that those institutions' stated values would prohibit. Subjects trusted the medical context.
 
 ### Results
 
@@ -84,7 +225,7 @@ Direct pharmacological substrate intervention has been superseded by more scalab
 
 ## Program 2: Project ARTICHOKE
 
-### Classification: SCT-002, SCT-004
+### Classification: SCT-009, SCT-001, SCT-004
 
 ### Historical Context
 
@@ -107,9 +248,11 @@ The program operated under the CIA's Office of Security rather than TSS, creatin
 
 ### SCT Mapping
 
-**SCT-002 (Physiological Substrate Intervention):** ARTICHOKE's methodology treated the body as the primary vector for cognitive modification. The drug protocols were designed to create physiological states (exhaustion, sedation, chemically-induced suggestibility) that would compromise cognitive autonomy. The substrate intervention was indirect — through the body's chemistry rather than direct neural modification — but the target was the same: override the subject's cognitive sovereignty.
+**SCT-009 (Chemical Substrate Disruption) [PRIMARY]:** ARTICHOKE's core methodology was pharmacological — barbiturate/stimulant cycling to create exhaustion-suggestibility states. The drug protocols were designed to alter the neurochemical operating environment, creating conditions (sedation, chemical suggestibility) that compromise cognitive autonomy. This maps to SCT-009 rather than SCT-002 (Information Asymmetry Exploitation) because the intervention is pharmacological, not informational — the subject's cognitive degradation results from chemical state change, not from asymmetric access to information.
 
-**SCT-004 (Interrogation & Coercive Cognitive Extraction):** ARTICHOKE was explicitly an interrogation program. Every technique was evaluated against a single metric: does this produce reliable intelligence from resistant subjects?
+**SCT-001 (Emotional Hijacking):** The exhaustion-suggestibility cycle produced acute emotional states — fear, confusion, dependency — that were then exploited for information extraction. The pharmacologically-induced emotional state became the medium through which interrogation content was delivered.
+
+**SCT-004 (Social Proof Manipulation):** Indirectly applicable through the medical/institutional framing of the interrogation context. More directly, ARTICHOKE was explicitly an interrogation program. Every technique was evaluated against a single metric: does this produce reliable intelligence from resistant subjects?
 
 ### Results
 
@@ -131,7 +274,7 @@ The compliance-accuracy divergence maps directly to modern engagement-driven con
 
 ## Program 3: Operation Midnight Climax
 
-### Classification: SCT-002
+### Classification: SCT-009, SCT-010, SCT-002
 
 ### Historical Context
 
@@ -153,7 +296,11 @@ White's operational notes, recovered after his death in 1975, describe the proje
 
 ### SCT Mapping
 
-**SCT-002 (Physiological Substrate Intervention):** Midnight Climax is classified under SCT-002 rather than SCT-001 because its primary research value was not the pharmacological effects of LSD (already studied in clinical settings) but the *interaction between pharmacological state change and environmental context*. The safe houses were substrate intervention environments — total-context constructions designed to observe how a physiologically altered subject interfaces with a controlled informational environment. The LSD was the intervention; the environment was the instrument.
+**SCT-009 (Chemical Substrate Disruption) [PRIMARY]:** The core intervention was covert LSD administration — pharmacological substrate disruption without consent or awareness. The chemical vector is the defining feature.
+
+**SCT-010 (Sensory Channel Manipulation):** The safe houses were controlled sensory environments — décor, lighting, social context, and interpersonal dynamics were all managed as experimental variables. The subject's sensory input was curated without their knowledge. This is sensory *substitution* — the third mode of SCT-010 — where the subject perceives a natural environment but the environment has been constructed by the operator. The subject believes they are in a normal social situation; they are in an instrumented observation chamber.
+
+**SCT-002 (Information Asymmetry Exploitation):** The one-way mirror is the literal instantiation of information asymmetry. The operator observes the subject; the subject cannot observe the operator. The entire experimental design is predicated on a total information asymmetry between operator and subject — the subject does not know they have been dosed, does not know they are being observed, does not know the environment is constructed. Every piece of contextual information the subject uses to make decisions is false, and the operator knows it.
 
 ### Results
 
@@ -175,7 +322,7 @@ Every social media platform is an Operation Midnight Climax running at populatio
 
 ## Program 4: Cameron's Psychic Driving
 
-### Classification: SCT-001, SCT-004, SCT-007
+### Classification: SCT-008, SCT-009, SCT-010, SCT-007, SCT-001, SCT-012
 
 ### Historical Context
 
@@ -210,11 +357,17 @@ Once the subject was depatterned, Cameron attempted to install new cognitive con
 
 ### SCT Mapping
 
-**SCT-001 (Chemical/Pharmacological Substrate Intervention):** The chemical component — barbiturate coma, chlorpromazine, LSD — was foundational to Cameron's protocol. Without pharmacological suppression, the subject's existing cognitive architecture would resist restructuring.
+**SCT-008 (Direct Substrate Intervention) [PRIMARY — DEPATTERNING]:** Cameron's ECT protocol is the most aggressive SCT-008 operation in the historical record. Page-Russell technique delivering six consecutive shocks per session, 2–3 times daily, up to 360 total sessions — this is direct electrical demolition of neural architecture. The ECT did not deliver information or modify neurochemistry; it physically disrupted the electrical patterns that constitute stored cognitive architecture. This is firmware erasure. The substrate's data structures were destroyed at the hardware level.
 
-**SCT-004 (Interrogation & Coercive Cognitive Extraction):** Cameron's work was funded as interrogation research. The CIA's interest was not therapeutic but operational: could you demolish a subject's personality and rebuild it to specification? The coercive element was absolute — patients could not consent to or refuse procedures they were not informed about.
+**SCT-009 (Chemical Substrate Disruption):** The pharmacological component — barbiturate-induced coma (15–65 days), chlorpromazine suppression, LSD administration — operated in parallel with SCT-008 to create maximum substrate plasticity. The chemical intervention maintained the subject in a neurochemical state incompatible with cognitive resistance or recovery. Without SCT-009 holding the substrate in a disrupted state, the ECT damage might have been partially compensated by neural plasticity.
 
-**SCT-007 (Environmental Cognitive Architecture):** The total-environment aspect of Cameron's protocol is its most significant feature. Subjects were not merely administered chemicals or shocks; they were immersed in a *constructed cognitive environment* — sensory isolation eliminating all uncontrolled inputs, followed by looped audio providing the only informational content available to the recovering substrate. This is environmental cognitive architecture in its purest form: the complete replacement of the subject's information environment with operator-controlled content.
+**SCT-010 (Sensory Channel Manipulation) [PRIMARY — BOTH PHASES]:** Cameron's protocol employed all three SCT-010 modes in sequence. *Sensory deprivation*: subjects placed in isolation chambers or darkened rooms for up to 35 days, denying all calibrating input. *Sensory substitution*: during the psychic driving phase, the only sensory input available was the operator-controlled looped audio — up to 500,000 repetitions. The subject's entire auditory environment was replaced with a single, repeated, operator-crafted message. This is total sensory channel capture: deny all natural input, then substitute operator-controlled input as the only available signal.
+
+**SCT-007 (Recursive Infection):** The psychic driving tapes were designed as self-reinforcing cognitive loops. The message content was crafted to produce states that would increase receptivity to the message content. Negative driving ("You are weak") was intended to demolish residual self-concept; positive driving ("You are confident") was intended to install a replacement. The recursive structure — message produces state, state increases receptivity to message — maps to SCT-007's core mechanism of self-replicating cognitive modification.
+
+**SCT-001 (Emotional Hijacking):** The emotional content of the driving messages — fear, shame, inadequacy in the negative phase; confidence and security in the positive phase — constituted deliberate emotional manipulation as the delivery mechanism for cognitive restructuring.
+
+**SCT-012 (Commitment Escalation & Self-Binding):** Indirectly present. Cameron's protocol attempted a passive version of SCT-012 — using repeated message exposure to generate a pseudo-commitment effect. This was the protocol's critical weakness: passive exposure does not produce the self-binding effect that active participation does. The Chinese programs (Program 8) succeeded where Cameron failed precisely because they employed active SCT-012 (self-criticism, public confession) rather than passive repetition.
 
 ### Results
 
@@ -240,7 +393,7 @@ The critical improvement over Cameron is that modern operations do not attempt *
 
 ## Program 5: Delgado's Stimoceiver
 
-### Classification: SCT-002
+### Classification: SCT-008
 
 ### Historical Context
 
@@ -263,7 +416,7 @@ The most famous demonstration occurred in 1963 at a ranch in Córdoba, Spain. De
 
 ### SCT Mapping
 
-**SCT-002 (Physiological Substrate Intervention):** The stimoceiver represents SCT-002 in its most extreme form: direct physical manipulation of neural substrate with no cognitive mediation whatsoever. The subject does not process information, make a decision, or experience persuasion. The electrical stimulus produces the behavioral output directly, bypassing every layer of cognitive architecture. The subject's self-report ("I'm looking for my slippers") demonstrates that the cognitive system confabulates post-hoc explanations for physically-induced behaviors — the narrative layer generates a justification *after* the behavior occurs.
+**SCT-008 (Direct Substrate Intervention) [DEFINING CASE]:** The stimoceiver is SCT-008 in its purest form — the case that necessitated the code's creation. Direct electrical stimulation of neural tissue produces behavioral and emotional outputs with no informational mediation whatsoever. The subject does not process information, make a decision, or experience persuasion. The electrical stimulus produces the behavioral output directly, bypassing every layer of cognitive architecture. The subject's self-report ("I'm looking for my slippers") demonstrates the confabulation principle that defines SCT-008: the narrative layer generates a justification *after* the behavior occurs, preserving the illusion of autonomous agency. This is the hardware rootkit analog — the compromise operates below the OS, and the OS reports normal operation because it cannot inspect its own hardware layer.
 
 ### Results
 
@@ -287,7 +440,7 @@ Every recommendation algorithm exploits the confabulation principle. The algorit
 
 ## Program 6: COINTELPRO
 
-### Classification: SCT-005, SCT-007
+### Classification: SCT-011, SCT-005, SCT-007, SCT-003
 
 ### Historical Context
 
@@ -318,9 +471,13 @@ COINTELPRO employed five primary technique categories:
 
 ### SCT Mapping
 
-**SCT-005 (Psychographic Targeting & Precision Delivery):** COINTELPRO was a precision operation. Each target organization was profiled for specific vulnerabilities: personal conflicts between leaders, ideological disagreements within the membership, financial dependencies, and relationship structures. The FBI then crafted interventions designed to exploit those specific vulnerabilities. The "bad-jacketing" technique is a textbook SCT-005 operation: identify the target's trust infrastructure, then deliver precisely crafted false information designed to compromise it.
+**SCT-011 (Trust Infrastructure Destruction) [PRIMARY — DEFINING CASE]:** COINTELPRO is the program that necessitated SCT-011. The FBI's bad-jacketing technique — fabricating evidence that trusted members were informants — is the canonical trust infrastructure attack. The target was not individual cognition but the *trust relationships* that enabled collective action. When every member suspects every other member of being an informant, the organization's distributed cognitive function collapses: information sharing stops, coordinated action becomes impossible, and the group fragments along lines of suspicion. COINTELPRO proved that destroying trust infrastructure is more efficient than targeting individual beliefs — you don't need to change anyone's mind; you need to make them unable to trust each other enough to act on shared convictions.
 
-**SCT-007 (Environmental Cognitive Architecture):** COINTELPRO's infiltration strategy went beyond intelligence gathering; it aimed to reshape the cognitive environment within target organizations. When one in six members is an informant, the informational environment of the organization is no longer organic — it is partially constructed by the adversary. Meeting discussions, strategic planning, and interpersonal dynamics are all influenced by the presence of agents whose objective is organizational dysfunction. The organization's internal environment becomes a partially adversary-controlled cognitive architecture.
+**SCT-005 (Identity Targeting):** COINTELPRO was a precision operation. Each target organization was profiled for specific vulnerabilities: personal conflicts between leaders, ideological disagreements within the membership, financial dependencies, and relationship structures. The FBI then crafted interventions designed to exploit those specific vulnerabilities. The suicide letter to King targeted his personal identity — his self-concept as a moral leader — with surgically delivered shame material.
+
+**SCT-007 (Recursive Infection):** COINTELPRO's infiltration strategy went beyond intelligence gathering; it aimed to reshape the cognitive environment within target organizations. When one in six members is an informant, the informational environment of the organization is no longer organic — it is partially constructed by the adversary. Moreover, the *suspicion* of infiltration is itself a recursive infection — it spreads through the organization independently of actual infiltration, with each member's distrust amplifying others' distrust.
+
+**SCT-003 (Authority Fabrication):** The FBI's forged documents, fake organizational newsletters, and fabricated correspondence constituted authority fabrication — creating false information artifacts that carried the credibility of their apparent sources. A forged letter on Black Panther Party letterhead is a fabricated authority document that bypasses source evaluation because the source appears authentic.
 
 ### Results
 
@@ -342,7 +499,7 @@ COINTELPRO's techniques have been comprehensively digitized. Online infiltration
 
 ## Program 7: Operation Mockingbird
 
-### Classification: SCT-003, SCT-007
+### Classification: SCT-003, SCT-007, SCT-002
 
 ### Historical Context
 
@@ -366,9 +523,11 @@ Key media assets and relationships included journalists and executives at The Wa
 
 ### SCT Mapping
 
-**SCT-003 (Narrative Infrastructure Capture):** Operation Mockingbird is the defining historical case for SCT-003. Rather than creating narratives (which can be identified as propaganda), the CIA captured the infrastructure through which narratives are distributed. The genius of the operation was its use of *existing credibility*: a story planted in the New York Times carries the accumulated trust of the New York Times, not the trust of the CIA. Narrative infrastructure capture converts the target audience's trust in the medium into a delivery mechanism for the operator's payload.
+**SCT-003 (Authority Fabrication) [PRIMARY — DEFINING CASE]:** Operation Mockingbird is the defining historical case for SCT-003. Rather than creating narratives (which can be identified as propaganda), the CIA captured the infrastructure through which narratives are distributed. The genius of the operation was its use of *existing credibility*: a story planted in the New York Times carries the accumulated trust of the New York Times, not the trust of the CIA. This is authority fabrication at the infrastructure level — not creating a fake expert, but co-opting a real institution so that its authentic authority authenticates the operator's payload. Certificate spoofing doesn't create a new CA; it compromises an existing trusted one.
 
-**SCT-007 (Environmental Cognitive Architecture):** At scale, Mockingbird contributed to the construction of an informational environment in which CIA-influenced narratives were distributed through multiple apparently independent channels, creating the perception of consensus. When the same story appears in the Washington Post, on CBS, and in Newsweek, the audience processes it as independently verified information. If all three channels are receiving guidance from the same source, the audience is living in a partially constructed information environment without knowing it.
+**SCT-007 (Recursive Infection):** At scale, Mockingbird contributed to the construction of an informational environment in which CIA-influenced narratives were distributed through multiple apparently independent channels, creating the perception of consensus. When the same story appears in the Washington Post, on CBS, and in Newsweek, the audience processes it as independently verified information. The recursive element: each outlet's coverage of the story becomes evidence that the other outlets cite, creating a self-reinforcing consensus loop manufactured from a single source.
+
+**SCT-002 (Information Asymmetry Exploitation):** The entire operation was predicated on a total information asymmetry between the CIA and the consuming public. The public did not know — and could not know, given the covert nature of the relationships — that their trusted information sources were compromised. This is the intelligence equivalent of a zero-day: a vulnerability in the information ecosystem that the target cannot patch because they don't know it exists.
 
 ### Results
 
@@ -390,7 +549,7 @@ The Mockingbird architecture has been fully democratized. State actors (Russia's
 
 ## Program 8: Lifton's Thought Reform Framework
 
-### Classification: SCT-001 through SCT-007 (all codes)
+### Classification: SCT-001 through SCT-012 (all codes)
 
 ### Historical Context
 
@@ -425,12 +584,21 @@ Lifton studied the Chinese programs not as propaganda but as *applied cognitive 
 
 Lifton's framework maps to the complete SCT taxonomy because it describes a *total* cognitive restructuring system — one that addresses every layer of the substrate simultaneously:
 
-- **SCT-001** — The Chinese programs used sleep deprivation, dietary manipulation, and physical stress as physiological adjuncts to cognitive intervention, producing neurochemical state changes through environmental rather than pharmacological means.
-- **SCT-002** — Physical exhaustion, stress positions, and enforced standing produced physiological states that compromised cognitive resistance.
-- **SCT-003** — Milieu control, sacred science, and loaded language represent comprehensive narrative infrastructure capture.
-- **SCT-004** — Cult of confession and coercive self-criticism sessions are formalized interrogation protocols.
-- **SCT-005** — Demand for purity, mystical manipulation, doctrine over person, and dispensing of existence are precision targeting techniques that exploit specific cognitive vulnerabilities (need for certainty, need for belonging, consistency bias).
-- **SCT-007** — The entire framework is an environmental cognitive architecture — a total system designed to construct a cognitive environment that produces the desired restructuring outcome.
+**Canonical codes:**
+- **SCT-001 (Emotional Hijacking)** — Struggle sessions were designed to produce extreme emotional states: shame, fear, guilt, and the desperate need for group acceptance. These emotional states bypassed rational evaluation and made the subject cognitively available for restructuring.
+- **SCT-002 (Information Asymmetry Exploitation)** — The totalistic environment maintained radical information asymmetry. The subject had no access to contradicting information, no way to verify claims, no external reference points. The operators controlled all contextual information.
+- **SCT-003 (Authority Fabrication)** — Sacred science positioned the ideology as both scientifically and morally authoritative. Loaded language replaced the subject's conceptual vocabulary with ideological terminology, fabricating a linguistic authority structure that constrained what thoughts could be expressed.
+- **SCT-004 (Social Proof Manipulation)** — Group confession sessions and collective self-criticism manufactured social proof. Each member's public affirmation of the ideology became evidence for every other member that the ideology was valid. The group constructed its own consensus.
+- **SCT-005 (Identity Targeting)** — Demand for purity, doctrine over person, and dispensing of existence all target identity directly. The subject's identity is reframed in the ideology's terms, and departure from the ideology is equated with identity annihilation.
+- **SCT-006 (Temporal Manipulation)** — The programs disrupted temporal continuity. The subject's past was reinterpreted through ideological framing ("you were a tool of capitalism"); the present was defined by the program; the future was contingent on ideological compliance. Temporal autonomy — the ability to narrate one's own past and project one's own future — was captured.
+- **SCT-007 (Recursive Infection)** — The entire framework is a self-reinforcing memetic system. Each criterion strengthens the others: milieu control enables loaded language, loaded language enables sacred science, sacred science enables demand for purity, demand for purity enables dispensing of existence. The system replicates itself through the subjects it captures — reformed subjects become the operators of reform for the next cohort.
+
+**Expanded codes:**
+- **SCT-008 (Direct Substrate Intervention)** — Indirectly. While the Chinese programs did not use surgery or electrode implantation, extreme physical stress (sleep deprivation, enforced standing, physical exhaustion) produces neurological effects that degrade executive function. Prolonged sleep deprivation in particular causes measurable cognitive impairment equivalent to mild pharmacological disruption.
+- **SCT-009 (Chemical Substrate Disruption)** — The Chinese programs used sleep deprivation and dietary manipulation as *endogenous* SCT-009 — producing neurochemical state changes through environmental means rather than exogenous drug administration. The cortisol elevation from chronic stress, the cognitive degradation from sleep deprivation, and the metabolic effects of caloric restriction all modified the neurochemical operating environment.
+- **SCT-010 (Sensory Channel Manipulation)** — Milieu control is the master SCT-010 operation. Total regulation of all information channels — no outside news, no uncensored mail, no private conversations — constituted complete sensory channel capture. Every sensory input the subject received was either operator-controlled or operator-monitored.
+- **SCT-011 (Trust Infrastructure Destruction)** — The cult of confession and mutual surveillance destroyed trust relationships between subjects. Each person was simultaneously a surveillance asset reporting on others and a surveillance target being reported on. Authentic interpersonal trust was replaced by performative ideological solidarity — a trust infrastructure controlled by the operator.
+- **SCT-012 (Commitment Escalation & Self-Binding) [CRITICAL]** — This is the code that explains why the Chinese programs succeeded where Cameron failed. Public self-criticism, written confessions, and performative denunciation of prior beliefs were not passive consumption of content but *active behavioral commitments* that bound the subject to the new ideology through the consistency principle. Each confession made the next one psychologically cheaper and the possibility of recantation psychologically more expensive. The subject's own behavioral output became the primary mechanism of their cognitive restructuring. **This is the most important SCT-012 finding in the historical record.**
 
 ### Results
 
@@ -454,7 +622,7 @@ Lifton documented the technique in 1961. Social media platforms have implemented
 
 ## Program 9: Soviet Active Measures
 
-### Classification: SCT-003, SCT-005, SCT-007
+### Classification: SCT-011, SCT-003, SCT-005, SCT-007, SCT-006
 
 ### Historical Context
 
@@ -487,11 +655,15 @@ The most sophisticated element of Soviet cognitive doctrine. Developed by mathem
 
 ### SCT Mapping
 
-**SCT-003 (Narrative Infrastructure Capture):** Dezinformatsiya and narrative laundering are direct implementations of SCT-003. The Soviets did not merely create narratives; they built distribution infrastructure — front organizations, influenced media outlets, academic networks — through which narratives could be delivered with borrowed credibility.
+**SCT-011 (Trust Infrastructure Destruction) [PRIMARY]:** Bezmenov's demoralization stage is the canonical multi-generational SCT-011 operation. The objective is not to install a specific belief but to *destroy the target population's trust in its own epistemological infrastructure* — its media, its institutions, its expertise, its own capacity to determine truth from falsehood. A demoralized population is not one that believes Soviet propaganda; it is one that *doesn't believe anything*, including accurate information about Soviet activities. Dezinformatsiya campaigns like Operation INFEKTION (AIDS as U.S. bioweapon) did not need to be universally believed; they needed to *pollute the information environment* sufficiently that the target population could no longer reliably distinguish authentic from fabricated claims.
 
-**SCT-005 (Psychographic Targeting & Precision Delivery):** Reflexive control theory is the doctrinal formalization of SCT-005. The theory explicitly models the target's decision-making process and designs information inputs calculated to produce specific decision outputs. This is psychographic targeting abstracted to game-theoretic precision.
+**SCT-003 (Authority Fabrication):** Narrative laundering — planting stories in marginal outlets then citing them in progressively more credible publications — is a systematic authority fabrication pipeline. Each citation layer adds credibility that the original fabrication did not possess. The Patriot (India) → Soviet media → Western media chain that distributed the INFEKTION narrative is a textbook authority escalation: each republication authenticated the claim with the republisher's credibility.
 
-**SCT-007 (Environmental Cognitive Architecture):** Bezmenov's demoralization framework is a multi-generational SCT-007 operation — the construction of a cognitive environment (through educational, cultural, and media influence) that shapes the population's epistemic foundations over decades. The environment is not a room or a platform; it is the entire informational culture of a society.
+**SCT-005 (Identity Targeting):** Reflexive control theory is the doctrinal formalization of SCT-005. The theory explicitly models the target's decision-making process and designs information inputs calculated to produce specific decision outputs. This is psychographic targeting abstracted to game-theoretic precision — applied not to individuals but to institutional decision-makers.
+
+**SCT-007 (Recursive Infection):** Active measures were designed to be self-propagating. Disinformation narratives that successfully entered the target's media ecosystem would be amplified, recombined, and redistributed by the target population itself — no further Soviet input required. The AIDS conspiracy narrative continues to circulate four decades after its creation, long after the apparatus that launched it ceased to exist. This is a successful SCT-007 deployment: a memetic structure that achieved self-replication and persists in the wild.
+
+**SCT-006 (Temporal Manipulation):** Bezmenov's framework is explicitly temporal — each stage has a defined duration, and the sequence is designed to exploit generational timescales. The demoralization stage targets an entire generation's formative years (15–20 years). The destabilization stage exploits the resulting vulnerability over 2–5 years. The crisis is measured in weeks. This temporal architecture means that the effects of a demoralization campaign initiated in one decade manifest as political vulnerability in a subsequent decade — making attribution nearly impossible.
 
 ### Results
 
@@ -515,7 +687,7 @@ Russian information operations under the Putin government — Fancy Bear/Cozy Be
 
 ## Program 10: Cambridge Analytica / SCL Group
 
-### Classification: SCT-005, SCT-007
+### Classification: SCT-005, SCT-007, SCT-011, SCT-009, SCT-012, SCT-001
 
 ### Historical Context
 
@@ -547,9 +719,17 @@ Operating in parallel (though not in documented coordination with Cambridge Anal
 
 ### SCT Mapping
 
-**SCT-005 (Psychographic Targeting & Precision Delivery):** Cambridge Analytica is the first industrial-scale implementation of SCT-005. Previous psychographic targeting — from COINTELPRO's per-target intelligence files to Soviet active measures' cultural-level profiling — was limited by the data collection and analysis capacity of human intelligence officers. Cambridge Analytica automated the entire pipeline: data collection (Facebook API), profile generation (OCEAN modeling), segmentation (audience clustering), and delivery (programmatic ad buying). The same operation that required a COINTELPRO case officer months of surveillance to execute against one target could now be executed against millions of targets simultaneously.
+**SCT-005 (Identity Targeting) [PRIMARY]:** Cambridge Analytica is the first industrial-scale implementation of SCT-005. Previous psychographic targeting — from COINTELPRO's per-target intelligence files to Soviet active measures' cultural-level profiling — was limited by the data collection and analysis capacity of human intelligence officers. Cambridge Analytica automated the entire pipeline: data collection (Facebook API), profile generation (OCEAN modeling), segmentation (audience clustering), and delivery (programmatic ad buying). The same operation that required a COINTELPRO case officer months of surveillance to execute against one target could now be executed against millions of targets simultaneously. High-neuroticism voters received fear-based messaging; low-openness voters received authority-based messaging — the same political payload, personality-optimized for the recipient's identity structure.
 
-**SCT-007 (Environmental Cognitive Architecture):** The IRA operations, in particular, constitute SCT-007. The troll farm's objective was not to persuade individuals but to *construct an informational environment* characterized by polarization, distrust, and epistemic confusion. By amplifying extreme positions on all sides simultaneously, the IRA constructed a social media environment in which moderate, consensus-oriented discourse was structurally disadvantaged — drowned out by algorithmically-amplified polarization. The environment itself became the intervention.
+**SCT-007 (Recursive Infection):** The IRA operations, in particular, constitute SCT-007. The troll farm's objective was not to persuade individuals but to *construct an informational environment* characterized by polarization, distrust, and epistemic confusion. By amplifying extreme positions on all sides simultaneously, the IRA constructed a social media environment in which moderate, consensus-oriented discourse was structurally disadvantaged — drowned out by algorithmically-amplified polarization. The environment itself became the intervention. Critically, the content was designed to be *shared* — each reshare by an authentic user amplified the operation and authenticated it with the sharer's social credibility. This is recursive infection: the payload replicates through the target population's own sharing behavior.
+
+**SCT-011 (Trust Infrastructure Destruction):** The IRA's dual-sided amplification — boosting both left-wing and right-wing extremism simultaneously — was not designed to persuade either side. It was designed to make each side *distrust the other* so profoundly that consensus-based democratic function would be degraded. This is trust infrastructure destruction at population scale: the target is not any group's beliefs but the inter-group trust that enables democratic deliberation.
+
+**SCT-009 (Chemical Substrate Disruption):** Cambridge Analytica and the IRA both operated through social media platforms whose engagement mechanics produce endogenous neurochemical effects. Fear-based political advertising triggers cortisol responses. Outrage content triggers dopaminergic engagement loops. The platforms are the drug delivery mechanism — they don't administer exogenous chemicals, but they engineer environments that cause the substrate to produce its own. Modern SCT-009 does not require a pharmacologist; it requires a recommendation algorithm.
+
+**SCT-012 (Commitment Escalation & Self-Binding):** Social media engagement is an incremental commitment escalation machine. Each like, share, and comment is a micro-commitment to a position. The accumulated corpus of a user's engagement history becomes an identity they defend — not because the positions were deeply held but because reversing years of public behavioral commitment carries prohibitive psychological cost. The algorithm accelerates this by presenting increasingly extreme content calibrated to the user's engagement history: each click deepens the commitment, each commitment justifies more extreme content, each piece of content elicits another click. This is SCT-012 at machine speed.
+
+**SCT-001 (Emotional Hijacking):** The operational core of micro-targeted political advertising is emotional triggering. Content was designed not to inform but to activate: fear in high-neuroticism audiences, anger in high-agreeableness audiences confronted with injustice narratives, disgust in purity-motivated audiences. The emotional response is the payload; the political content is the delivery vehicle.
 
 ### Results
 
@@ -583,26 +763,27 @@ The ten programs documented above span seven decades, four countries, and every 
 
 This is not a theoretical claim. It is an empirical finding supported by the largest and most ethically unconstrained research program in history. The evidence base includes:
 
-- MKUltra's demonstration that pharmacological intervention reliably destabilizes cognitive coherence
-- Cameron's proof that cognitive architecture can be demolished through combined physical/chemical/environmental intervention
-- Delgado's demonstration that direct neural stimulation produces specific behavioral outputs with post-hoc confabulation
-- The Chinese thought reform programs' achievement of functional belief restructuring through purely environmental means
-- COINTELPRO's destruction of organizational cognitive coherence through trust infrastructure attacks
-- Mockingbird's decades-long demonstration that narrative infrastructure capture bypasses source-evaluation defenses
-- Soviet active measures' multi-generational degradation of epistemic capacity through systematic demoralization
-- Cambridge Analytica's industrialization of psychographic targeting at population scale
+- MKUltra's demonstration that pharmacological intervention (SCT-009) reliably destabilizes cognitive coherence
+- Cameron's proof that cognitive architecture can be demolished through combined direct intervention (SCT-008), chemical disruption (SCT-009), and sensory channel capture (SCT-010) — and that passive reconstruction fails without active self-binding (SCT-012)
+- Delgado's demonstration that direct substrate intervention (SCT-008) produces specific behavioral outputs with post-hoc confabulation — the substrate cannot audit its own hardware layer
+- The Chinese thought reform programs' achievement of functional belief restructuring through environmental totalism (all SCT codes simultaneously), with commitment escalation (SCT-012) as the critical differentiator
+- COINTELPRO's destruction of organizational cognitive coherence through trust infrastructure attacks (SCT-011) — the first memetic-only program to achieve operational destruction of target organizations
+- Mockingbird's decades-long demonstration that authority fabrication at the infrastructure level (SCT-003) bypasses all source-evaluation defenses
+- Soviet active measures' multi-generational degradation of epistemic capacity through systematic trust infrastructure destruction (SCT-011) and temporal manipulation (SCT-006)
+- Cambridge Analytica's industrialization of identity targeting (SCT-005) and commitment escalation (SCT-012) at population scale through endogenous chemical disruption (SCT-009) via platform engagement mechanics
 
 The programs form a coherent progression:
 
-| Era | Vector | Scale | Key Insight |
-|-----|--------|-------|-------------|
-| 1950s | Chemical/Physical | Individual | Substrate can be destabilized pharmacologically |
-| 1950s–60s | Environmental | Individual | Environmental totalism achieves restructuring that chemistry cannot |
-| 1960s | Electrical | Individual | Direct neural intervention produces confabulated autonomy |
-| 1950s–70s | Memetic/Institutional | Organizational | Trust infrastructure is the critical collective vulnerability |
-| 1950s–70s | Narrative | Population | Captured channels bypass all source-evaluation defenses |
-| 1960s–80s | Doctrinal | Civilizational | Epistemic degradation operates on generational timescales |
-| 2010s | Digital/Algorithmic | Population (individualized) | Psychographic targeting at scale is a commercial product |
+| Era | Vector | Scale | Primary SCT Codes | Key Insight |
+|-----|--------|-------|--------------------|-------------|
+| 1950s | Chemical | Individual | SCT-009 | Substrate can be destabilized pharmacologically |
+| 1950s–60s | Electrical/Physical | Individual | SCT-008 | Direct neural intervention produces confabulated autonomy |
+| 1950s–60s | Sensory/Environmental | Individual | SCT-010, SCT-007 | Sensory channel control is more effective than chemical disruption |
+| 1950s–60s | Totalistic | Individual | All codes (esp. SCT-012) | Active self-binding achieves restructuring that passive exposure cannot |
+| 1950s–70s | Trust/Memetic | Organizational | SCT-011, SCT-003 | Trust infrastructure is the critical collective vulnerability |
+| 1950s–70s | Narrative Infrastructure | Population | SCT-003, SCT-002 | Captured channels bypass all source-evaluation defenses |
+| 1960s–80s | Doctrinal/Temporal | Civilizational | SCT-011, SCT-006 | Epistemic degradation operates on generational timescales |
+| 2010s | Digital/Algorithmic | Population (individualized) | SCT-005, SCT-012, SCT-009 | Psychographic targeting + commitment escalation + endogenous chemical disruption = commercial product |
 
 The trajectory is clear: substrate manipulation has moved from individual to population scale, from physical to informational vectors, from state-monopoly to commercially-available capability, and from detectable to structurally invisible methods.
 
@@ -620,11 +801,13 @@ This asymmetry means that cognitive defense cannot simply be the inverse of cogn
 
 The empirical record constrains viable defense architectures:
 
-1. **Introspection is insufficient** (Delgado). The substrate cannot reliably detect its own compromise through self-examination.
-2. **Information quality is insufficient** (Bezmenov). A demoralized substrate cannot process corrective information.
-3. **Source identification is insufficient** (Mockingbird). Captured channels carry the credibility of the channel, not the originator.
-4. **Individual resilience is insufficient** (COINTELPRO). Cognitive defense must include organizational and environmental layers.
-5. **Point defenses are insufficient** (Cambridge Analytica). When the attack is industrialized, defense must be architectural.
+1. **Introspection is insufficient** (Delgado, SCT-008). The substrate cannot reliably detect its own compromise through self-examination. The confabulation principle means that introspective reports of autonomy are not evidence of autonomy.
+2. **Information quality is insufficient** (Bezmenov, SCT-011). A population whose trust infrastructure has been destroyed cannot process corrective information — not because the information is unavailable but because the evaluation mechanisms are offline.
+3. **Source identification is insufficient** (Mockingbird, SCT-003). Captured channels carry the credibility of the channel, not the originator. Source evaluation only works when the sources have not been compromised.
+4. **Individual resilience is insufficient** (COINTELPRO, SCT-011). Cognitive defense must include organizational and environmental layers. Trust infrastructure destruction disables collective cognitive function regardless of individual members' resilience.
+5. **Point defenses are insufficient** (Cambridge Analytica, SCT-005 + SCT-012). When the attack is industrialized and the subject's own engagement behavior becomes the mechanism of capture, defense must be architectural.
+6. **Passive exposure does not restructure** (Cameron vs. Chinese programs, SCT-012). The subject must be an active participant in their own cognitive modification for the modification to be durable. This applies to defense as well as offense — passive "media literacy" education is structurally weaker than active epistemic practice.
+7. **Chemical disruption is now endogenous** (Platform mechanics, SCT-009). The substrate's neurochemical environment is being continuously modified by engagement-optimized digital environments. Defense against SCT-009 now requires environmental design, not pharmacological countermeasures.
 
 The viable defense architecture, per the empirical record, must operate at the *environmental* level — modifying the informational structures within which cognition occurs, rather than attempting to fortify individual substrates against individual attacks. This is the Seithar position: cognitive defense is infrastructure design, not personal development.
 
