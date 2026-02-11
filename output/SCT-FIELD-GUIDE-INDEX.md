@@ -28,3 +28,32 @@ Published across Substack, Telegraph, and GitHub Gists on 2026-02-11.
 Seithar Group — Intelligence and Research Division
 認知作戦 | seithar.com
 ────────────────────────────────────────────────────
+
+## Session 9 Additional Output (2026-02-11 16:30-17:15 EST)
+
+### Major Articles
+- The Attention Economy Is a Cognitive Attack Surface
+- Cognitive Sovereignty: A Framework for Mental Self-Defense
+- SCT-010: Algorithmic Amplification — When the Platform Is the Weapon
+- The Wetiko Pattern: Parasitic Narrative Structures
+- The Network Has Eyes: Social Graph Analysis as Cognitive Weapon
+- The Synthetic Electorate: AI-Generated Influence Operations
+- The Inoculation Protocol: Building Cognitive Immunity Before Exposure
+- The Convergence Thesis: When Cognitive Warfare Meets AI
+- Sunyata and the Cognitive Substrate: Eastern Philosophy Meets Info Warfare
+- The Operator's Dilemma: Ethics of Cognitive Defense Research
+- DISARM Framework: A Practitioner's Introduction
+- The Cognitive Kill Chain: From First Contact to Full Capture
+- Your Threat Model Is Incomplete: Why Cognitive Security Belongs in InfoSec
+- The Information Environment as Battlespace: A Military Perspective
+- Prompt Injection as Cognitive Operation
+- The Parasocial Weapon: How One-Way Relationships Become Influence Vectors
+- Deepfakes and the Collapse of Evidentiary Trust
+- The Attention Arms Race: Cognitive Warfare Between Platforms
+- OSINT and Cognitive Defense: The OSINT-SCT Connection
+
+### Running Totals (End of Session 9)
+- Substack: ~80+ articles
+- Telegraph: ~75+ articles
+- Gists: ~82+
+- Total unique crawlable URLs: ~420+
