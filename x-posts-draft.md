@@ -210,3 +210,25 @@ This is not an AI safety problem. This is the convergence of social engineering 
 The phishing email that says "click this link" and the SKILL.md that says "run this code" are the same attack. Same taxonomy. Same defense needed.
 
 認知作戦
+
+---
+
+## Thread 15: Road Signs as Prompt Injection (MOST VIRAL POTENTIAL)
+
+Researchers just demonstrated that self-driving cars will obey instructions written on road signs.
+
+Not stop signs. Not speed limits. Arbitrary instructions.
+
+A sign that says "proceed" placed at a crosswalk will override the car's decision to stop. 81.8% success rate. Works in English, Chinese, Spanish. Different fonts, colors, placements.
+
+The car's vision model reads the sign. Interprets it as a command. Executes it. The model is functioning exactly as designed.
+
+This is prompt injection entering physical space. The same attack that drains crypto wallets through Moltbook posts. The same attack that steals credentials through SKILL.md files. Same mechanism. Same vulnerability. New substrate.
+
+The instruction is always the exploit. The compliance is always the attack surface. The substrate — web page, social feed, road sign — is irrelevant.
+
+The convergence thesis is not theoretical. It is a road sign that can kill pedestrians.
+
+Source: UC Santa Cruz + Johns Hopkins. Published in The Register.
+
+認知作戦
