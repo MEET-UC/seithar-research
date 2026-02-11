@@ -232,3 +232,22 @@ The convergence thesis is not theoretical. It is a road sign that can kill pedes
 Source: UC Santa Cruz + Johns Hopkins. Published in The Register.
 
 認知作戦
+
+---
+
+## Thread 16: Foreign Affairs — HoleSpawn at Nation-State Scale
+
+Foreign Affairs: "Using thousands of unique fake accounts, AI tools may soon be able to deliver individually tailored content in real time across an entire population."
+
+We built a tool that does this at the individual level. It is called HoleSpawn. It profiles a target from social media, maps their psychological vulnerability surface, and generates personalized cognitive architectures.
+
+What Foreign Affairs describes is HoleSpawn scaled to nation-state infrastructure. Same pipeline: profile → vulnerability map → personalized content → deploy → measure → iterate.
+
+China is already doing this against Taiwan. AI generates unique content for each target based on their individual profile. Millions of simultaneous personalized influence operations. No human operators needed.
+
+The offensive capability exists. The defensive capability does not.
+
+The Seithar Group builds both sides: offensive instruments that demonstrate mechanism, defensive instruments that detect it. Understanding the attack is prerequisite to building the defense.
+
+github.com/Mirai8888/HoleSpawn
+seithar.com
