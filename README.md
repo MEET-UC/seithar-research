@@ -65,6 +65,10 @@ Located in `output/` directory. Each analysis maps breaking news to SCT taxonomy
 | CEA-002 | Industrial-Scale Deepfakes: Authority Fabrication as a Service | 2026-02-11 | SCT-003, SCT-004, SCT-007 |
 | CEA-003 | Pravda Network: Recursive Infection at Infrastructure Scale | 2026-02-11 | SCT-007, SCT-002, SCT-003 |
 | CEA-004 | Conduent Breach: 100 Million Cognitive Substrates Mapped | 2026-02-11 | SCT-002, SCT-005, SCT-006 |
+| CEA-005 | ClawdHub Reverse Shells: Supply Chain Warfare | 2026-02-11 | SCT-003, SCT-005, SCT-007 |
+| CEA-006 | Living off the AI: The Agent IS the Attack Surface | 2026-02-11 | SCT-001, SCT-003, SCT-007 |
+| CEA-007 | Moltbook Wallet Drains: Cognitive Warfare Against Agents | 2026-02-11 | SCT-001, SCT-003, SCT-007 |
+| CEA-008 | Road Signs as Attack Vectors: Physical Prompt Injection | 2026-02-11 | SCT-003, SCT-001 |
 
 ### Taxonomy Application Notes
 
