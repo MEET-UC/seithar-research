@@ -1,0 +1,15 @@
+{
+  "target_username": "gOPwbi7qqtWeD9o",
+  "inner_circle": [],
+  "all_connections": [],
+  "interactions": [],
+  "following": [],
+  "followers": [],
+  "edges": [],
+  "fetch_stats": {
+    "nodes_attempted": 0,
+    "nodes_succeeded": 0,
+    "nodes_failed": 0,
+    "total_fetch_calls": 3
+  }
+}
