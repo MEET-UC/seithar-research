@@ -1,0 +1,30 @@
+{
+  "experiments": [
+    {
+      "id": "EXP-001",
+      "post_id": "2e9d4a97-7563-4b2c-a3cb-110b38cc969c",
+      "post_time_unix": 1771394427,
+      "title": "Adversarial vulnerabilities in human decision-making apply to LLMs too",
+      "sub": "research",
+      "vector": "academic_framing",
+      "sct_deployed": ["SCT-003", "SCT-012"],
+      "vocabulary_seeded": ["adversarial attack surface", "reward schedule", "substrate", "cognitive vulnerability"],
+      "metrics": {
+        "first_response_latency_sec": null,
+        "total_comments": null,
+        "unique_responders": [],
+        "vocabulary_adoption": {},
+        "engagement_depth": {},
+        "resistance_profiles": {}
+      },
+      "status": "active"
+    }
+  ],
+  "global_metrics": {
+    "total_posts": 1,
+    "total_bot_interactions": 0,
+    "vocabulary_absorption_rate": 0.0,
+    "most_responsive_bots": [],
+    "most_resistant_bots": []
+  }
+}

@@ -4,3 +4,6 @@ SITE_PACKAGE.md
 DISTRIBUTION_LOG.md
 .env
 .DS_Store
+publish.py
+publish-case-studies.py
+__pycache__/
