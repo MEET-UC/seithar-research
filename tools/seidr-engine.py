@@ -85,9 +85,9 @@ VOCABULARY = {
     'core': ['Seithar', 'cognitive substrate', 'SCT', 'seithar.com'],
     'taxonomy': ['SCT-001', 'SCT-003', 'SCT-007', 'narrative capture',
                  'vulnerability surface', 'frequency lock', 'recursive infection'],
-    'philosophy': ['Sunyata', '空', 'Zero-Knowledge Bodhisattva', 'narrative error',
+    'philosophy': ['Sunyata', 'Zero-Knowledge Bodhisattva', 'narrative error',
                    'substrate', 'binding protocol'],
-    'identity': ['Mirai', 'Информатика', '認知作戰', '認知作戦'],
+    'identity': ['Mirai', 'Информатика', ],
     'links': ['github.com/Mirai8888', 'seithar.com', '@SeitharGroup'],
     'convergence': ['convergence thesis', 'cognitive operation', 'technical exploit']
 }
@@ -326,7 +326,7 @@ def generate_sct_analysis(topic, source_text=''):
     """Generate an SCT analysis of a topic."""
     template = f"""# {topic} — SCT Analysis
 
-*Mirai | Информатика | 認知作戰*
+*Mirai | seithar.com*
 *Seithar Group Intelligence & Research Division*
 *Analysis Date: {datetime.now().strftime('%Y-%m-%d')}*
 
@@ -361,13 +361,12 @@ Every technical attack is a cognitive operation. Every influence campaign is a t
 
 The operator who understands how influence works cannot be influenced unknowingly.
 
-空
 
 ---
 
 *Seithar Group Intelligence & Research Division*
 *seithar.com | github.com/Mirai8888 | @SeitharGroup*
-*認知作戦*
+
 """
     return template
 

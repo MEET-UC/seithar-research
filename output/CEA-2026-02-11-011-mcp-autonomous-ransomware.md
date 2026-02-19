@@ -2,7 +2,7 @@
 
 **Classification:** SEITHAR GROUP — Current Event Analysis  
 **Date:** 2026-02-11  
-**Analyst:** 研修生 (Research Intern)  
+**Analyst:** Seithar Group Intelligence Division  
 **Source:** Malwarebytes State of Malware 2026; Cybersecurity Dive  
 
 ---
@@ -66,5 +66,5 @@ The MCP-enabled autonomous attack pipeline represents the point where offensive 
 ---
 
 *Seithar Group Intelligence and Research Division*  
-*認知作戦 | seithar.com*  
+* | seithar.com*  
 *SCT Taxonomy: github.com/Mirai8888/seithar-cogdef*

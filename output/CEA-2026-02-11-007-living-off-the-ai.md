@@ -4,7 +4,7 @@ series: Seithar Current Event Analysis
 id: CEA-2026-02-11-007
 date: 2026-02-11
 classification: OPEN SOURCE
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-002, SCT-007, living-off-the-ai, living-off-the-land, AI agents, tradecraft, SecurityWeek]
 source: https://www.securityweek.com
 sct_codes: [SCT-002, SCT-007]
@@ -95,6 +95,6 @@ The strategic implication: the agent security model cannot be "detect and block 
 The agent's tools are the weapon. The agent's trust is the vulnerability. The agent's normal operation is the attack. Living off the AI is not an edge case. It is the default offensive posture for a world where AI agents have become infrastructure.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

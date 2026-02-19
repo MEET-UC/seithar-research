@@ -3,7 +3,7 @@ title: "The Attention Auction: How Recommendation Algorithms Constitute a Cognit
 series: Seithar Current Event Analysis
 id: CEA-2026-02-12-001
 date: 2026-02-12
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-001, SCT-002, SCT-003, SCT-004, SCT-005, SCT-006, SCT-007, SCT-010, SCT-011, SCT-012, recommendation algorithms, TikTok, YouTube, Twitter, Instagram, attention economics, cognitive warfare, radicalization, filter bubbles]
 ---
 
@@ -172,12 +172,12 @@ State actors with access to recommendation algorithm parameters — whether thro
 
 *Analysis compiled from open-source intelligence, published academic research, platform documentation, and Seithar Group internal taxonomy development. All citations reference publicly available materials. SCT taxonomy mappings follow Seithar Cognitive Defense Taxonomy v2.1.*
 
-*Primary Analyst: 研修生*
+*Primary Analyst: Seithar Group Intelligence Division*
 *Review: Seithar Group Intelligence Division*
 *Distribution: OPEN*
 
 ───────────────────────────────────────
 Seithar Group — Intelligence Division
 Classification: OPEN
-認知作戦 | seithar.com
+seithar.com
 ───────────────────────────────────────

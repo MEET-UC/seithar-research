@@ -3,7 +3,7 @@ title: "Six Zero-Days and the Illusion of Technical-Only Defense"
 series: Seithar Current Event Analysis
 id: CEA-2026-02-11-001
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-001, SCT-002, SCT-003, SCT-006, zero-day, Microsoft, Patch Tuesday, convergence thesis]
 source: https://www.securityweek.com/6-actively-exploited-zero-days-patched-by-microsoft-with-february-2026-updates/
 ---
@@ -39,6 +39,6 @@ Organizations operating under the narrative error that patching equals security 
 The Seithar Cognitive Defense Taxonomy provides the analytical framework for assessing this composite attack surface — technical and cognitive simultaneously.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

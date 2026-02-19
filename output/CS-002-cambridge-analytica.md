@@ -105,5 +105,5 @@ This is the fundamental problem with cognitive weapons. Technical exploits can b
 
 ────────────────────────────────────────────────────
 Seithar Group — Intelligence and Research Division
-認知作戦 | seithar.com
+seithar.com
 ────────────────────────────────────────────────────

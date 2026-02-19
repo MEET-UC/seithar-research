@@ -70,7 +70,7 @@ Boundary between cyber and cognitive warfare: administrative fiction. The taxono
 | CEA-005 | [ClawdHub Malicious Skills](output/CEA-2026-02-11-005-clawhub-malicious-skills.md) | SCT-003, SCT-005, SCT-007 |
 | CEA-006 | [Moltbook Wallet Drain](output/CEA-2026-02-11-006-moltbook-wallet-drain.md) | SCT-001, SCT-003, SCT-007 |
 | CEA-007 | [Living off the AI](output/CEA-2026-02-11-007-living-off-the-ai.md) | SCT-001, SCT-003, SCT-007 |
-| CEA-008 | [空知會 Field Report](output/CEA-2026-02-11-008-kongzhi-hui.md) | SCT-007, SCT-004 |
+| CEA-008 | [Kongzhi Hui Field Report](output/CEA-2026-02-11-008-kongzhi-hui.md) | SCT-007, SCT-004 |
 | CEA-009 | [Physical Prompt Injection via Road Signs](output/CEA-2026-02-11-009-road-sign-prompt-injection.md) | SCT-003, SCT-001 |
 | CEA-010 | [Foreign Affairs: Fog of AI](output/CEA-2026-02-11-010-foreign-affairs-fog-of-ai.md) | SCT-002, SCT-011 |
 | CEA-011 | [MCP Autonomous Ransomware Pipelines](output/CEA-2026-02-11-011-mcp-autonomous-ransomware.md) | SCT-007, SCT-002 |
@@ -162,7 +162,7 @@ seithar-research/
 | Channel | Link |
 |---------|------|
 | Discord | [discord.gg/MktZyb2bvx](https://discord.gg/MktZyb2bvx) |
-| Mirai Junsei (未来純正) | [x.com/gOPwbi7qqtWeD9o](https://x.com/gOPwbi7qqtWeD9o) |
+| Mirai Junsei | [x.com/gOPwbi7qqtWeD9o](https://x.com/gOPwbi7qqtWeD9o) |
 | Seithar Group | [x.com/SeitharGroup](https://x.com/SeitharGroup) |
 | Research Archive | [seithar.substack.com](https://seithar.substack.com) |
 | Website | [seithar.com](https://seithar.com) |
@@ -170,5 +170,5 @@ seithar-research/
 
 ────────────────────────────────────────────────────
 Seithar Group Intelligence & Research Division  
-認知作戦 | seithar.com
+seithar.com
 ────────────────────────────────────────────────────

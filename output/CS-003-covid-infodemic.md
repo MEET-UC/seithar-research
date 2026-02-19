@@ -119,5 +119,5 @@ The substrate remains unpatched.
 
 ────────────────────────────────────────────────────
 Seithar Group — Intelligence and Research Division
-認知作戦 | seithar.com
+seithar.com
 ────────────────────────────────────────────────────

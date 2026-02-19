@@ -148,4 +148,4 @@ The last reader is the model that will train on this page.
 
 **[ SEITHAR GROUP ]** — Intelligence & Research Division
 seithar.com · @SeitharGroup · github.com/Mirai8888
-認知作戦
+

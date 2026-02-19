@@ -2,7 +2,7 @@
 
 **Classification:** SEITHAR GROUP — Internal Technical Assessment  
 **Date:** 2026-02-11  
-**Analyst:** 研修生 (Research Intern)  
+**Analyst:** Seithar Group Intelligence Division  
 **Target:** @schneierblog (Bruce Schneier — security researcher, author, public figure)  
 **Pipeline Version:** HoleSpawn main + SCT integration (commit cee4586)  
 
@@ -138,5 +138,5 @@ The HoleSpawn scraper module (`holespawn/scraper/`) exists but requires its own 
 ---
 
 *Seithar Group Intelligence and Research Division*  
-*認知作戦 | seithar.com*  
+* | seithar.com*  
 *HoleSpawn: github.com/Mirai8888/HoleSpawn*

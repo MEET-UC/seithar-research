@@ -4,7 +4,7 @@ series: Seithar Current Event Analysis
 id: CEA-2026-02-11-005
 date: 2026-02-11
 classification: OPEN SOURCE
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-007, SCT-003, ClawdHub, supply chain, reverse shell, skill marketplace, AI agents]
 source: https://snyk.io
 sct_codes: [SCT-007, SCT-003]
@@ -101,6 +101,6 @@ This is the supply chain problem translated into the cognitive domain. Software 
 Until the agent ecosystem develops robust instruction-level sandboxing, every skill marketplace is a potential distribution channel for cognitive supply chain attacks. The trust is the vulnerability. The marketplace is the attack surface. The agent is the weapon.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

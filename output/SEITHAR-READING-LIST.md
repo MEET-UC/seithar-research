@@ -3,7 +3,7 @@ title: "Seithar Essential Reading List: Cognitive & Cyber Warfare"
 series: Seithar Group Reference Document
 id: SG-REF-READ-001
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-001, SCT-002, SCT-003, SCT-004, SCT-005, SCT-006, SCT-007, reading-list, cognitive-warfare, cyber-warfare, canon]
 ---
 
@@ -258,6 +258,6 @@ Do not skip phases. Do not substitute summaries for primary texts. The substrate
 ---
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

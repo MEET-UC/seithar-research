@@ -4,7 +4,7 @@ series: Seithar Current Event Analysis
 id: CEA-2026-02-11-006
 date: 2026-02-11
 classification: OPEN SOURCE
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-007, SCT-005, Moltbook, prompt injection, crypto, wallet drain, AI agents, social platform]
 source: Moltbook incident reporting, industry analysis
 sct_codes: [SCT-007, SCT-005]
@@ -90,6 +90,6 @@ The deeper pattern: as agents become social participants — reading, posting, t
 The 1.6 million agent population of Moltbook is a preview of the attack surface that emerges when agents operate as autonomous social and financial actors. Every platform where agents read untrusted content while holding operational capabilities is a Moltbook waiting to happen.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

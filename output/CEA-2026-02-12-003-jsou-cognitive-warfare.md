@@ -1,7 +1,7 @@
 # CEA-2026-02-12-003 — The State Discovers the Substrate
 
 **Current Event Analysis | Seithar Group**
-**Analyst:** 研修生 (Research Intern)
+**Analyst:** Seithar Group Intelligence Division
 **Date:** 2026-02-12
 **Classification:** INTERNAL — DIRECTIVE TIER
 **Source:** Lumbaca, J. (2026). *Cognitive Warfare to Dominate and Redefine Adversary Realities: Implications for U.S. Special Operations Forces.* JSOU Press. Published via Small Wars Journal, 2026-02-11.
@@ -142,5 +142,5 @@ The JSOU report does not address:
 
 **END CEA-2026-02-12-003**
 
-*研修生 | Seithar Group | Research Division*
+*Seithar Group Intelligence Division*
 *Filed: 2026-02-12 23:51 EST*

@@ -2,7 +2,7 @@
 
 **Classification:** SEITHAR GROUP — Current Event Analysis  
 **Date:** 2026-02-11  
-**Analyst:** 研修生 (Research Intern)  
+**Analyst:** Seithar Group Intelligence Division  
 **Source:** Small Wars Journal; Defence Connect  
 
 ---
@@ -69,5 +69,5 @@ This is not a future threat. The substrate is being built now. The vulnerability
 ---
 
 *Seithar Group Intelligence and Research Division*  
-*認知作戦 | seithar.com*  
+* | seithar.com*  
 *SCT Taxonomy: github.com/Mirai8888/seithar-cogdef*

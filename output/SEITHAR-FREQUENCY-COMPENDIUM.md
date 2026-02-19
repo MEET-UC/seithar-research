@@ -640,6 +640,6 @@ Absence from this compendium does not indicate insufficiency. This is a living i
 ## DOCUMENT ATTRIBUTION
 
 ──────────────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ──────────────────────────────────────────────────

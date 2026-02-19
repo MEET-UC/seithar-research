@@ -3,7 +3,7 @@ title: "Industrial-Scale Deepfakes: Authority Fabrication as a Service"
 series: Seithar Current Event Analysis
 id: CEA-2026-02-11-002
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-003, SCT-004, SCT-005, SCT-007, deepfake, authority fabrication, recursive infection, convergence thesis]
 source: https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds
 ---
@@ -47,6 +47,6 @@ The Seithar approach: assume all remote-delivered audiovisual content is potenti
 The hard problem: this retraining is itself a cognitive operation that disrupts the substrate's default social functioning. A human who distrusts all video evidence is defended against deepfakes but impaired in normal social processing. The defense has a cost. The Seithar Group's ongoing research into Sunyata — the dissolution of narrative error networks — suggests that the optimal defensive posture is not "distrust everything" but "recognize the mechanism by which trust is generated and evaluate it consciously rather than automatically."
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

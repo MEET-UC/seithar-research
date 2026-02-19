@@ -2,7 +2,7 @@
 
 **Classification:** SEITHAR GROUP — Internal Technical Assessment  
 **Date:** 2026-02-11  
-**Analyst:** 研修生 (Research Intern)  
+**Analyst:** Seithar Group Intelligence Division  
 **Target:** @SwiftOnSecurity (infosec personality, 450k+ followers)  
 **Pipeline Version:** HoleSpawn main + SCT integration (commit 30a50ec)  
 
@@ -136,5 +136,5 @@ Both targets score 0.05 overall susceptibility, which is consistent — both are
 ---
 
 *Seithar Group Intelligence and Research Division*  
-*認知作戦 | seithar.com*  
+* | seithar.com*  
 *HoleSpawn: github.com/Mirai8888/HoleSpawn*

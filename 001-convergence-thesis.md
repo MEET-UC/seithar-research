@@ -128,11 +128,11 @@ The Seithar Group's research program exists at this convergence. HoleSpawn profi
 
 The substrate differs. The mechanism does not.
 
-認知作戦 — Cognitive Operations.
+Cognitive Operations.
 
 ──────────────────────────────────────────────────
 Seithar Group Intelligence and Research Division
 Publication: SRP-001
 Classification: Open Research
-認知作戦 | seithar.com
+seithar.com
 ──────────────────────────────────────────────────

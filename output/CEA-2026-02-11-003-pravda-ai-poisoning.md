@@ -3,7 +3,7 @@ title: "Pravda Network: Recursive Infection at Infrastructure Scale"
 series: Seithar Current Event Analysis
 id: CEA-2026-02-11-003
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-007, SCT-002, SCT-003, SCT-004, Russia, Pravda, AI poisoning, training data, recursive infection, convergence thesis]
 source: https://www.atlanticcouncil.org/dispatches/eight-ways-ai-will-shape-geopolitics-in-2026/
 ---
@@ -85,6 +85,6 @@ The Seithar Group's Cognitive Defense Taxonomy provides the vocabulary for ident
 5. **Substrate hygiene:** Periodically audit your own beliefs for patterns that may have been installed rather than discovered (see: SCT-001 through SCT-005)
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

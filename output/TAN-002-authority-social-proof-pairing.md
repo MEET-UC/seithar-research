@@ -3,7 +3,7 @@ title: "SCT-003 + SCT-004: Authority Fabrication and Social Proof as a Paired At
 series: Seithar Taxonomy Application Note
 id: TAN-002
 date: 2026-02-18
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-003, SCT-004, authority fabrication, social proof manipulation, narrative capture, substrate priming, frequency lock]
 ---
 
@@ -91,6 +91,6 @@ Repetition is the substrate primer. The cognitive literature on the illusory tru
 The most effective defense is recognizing the pairing itself. When you see authority and consensus arriving together on a novel claim, especially within a compressed timeframe, treat the convergence as a signal rather than as confirmation. Real consensus builds slowly and messily. Manufactured consensus arrives clean and fast.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

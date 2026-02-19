@@ -155,4 +155,4 @@ The question, as it has always been, is not whether you are inside a narrative. 
 
 *Seithar Group Intelligence and Research Division*
 *SRP-010 | February 2026*
-*認知作戦 | seithar.com*
+*seithar.com*

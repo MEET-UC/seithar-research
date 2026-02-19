@@ -142,5 +142,5 @@ Decide for yourself whether that distinction matters.
 Seithar Group Intelligence and Research Division
 Publication: SRP-002
 Classification: Open Research
-認知作戦 | seithar.com
+seithar.com
 ──────────────────────────────────────────────────

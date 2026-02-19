@@ -64,7 +64,7 @@ To name the attack is the first act of defense. Not the last. Not sufficient. Bu
 
 The noosphere has a tumor. The tumor is us. The diagnosis is the beginning of the cure.
 
-Seithar Group | 認知作戦 | seithar.com
+Seithar Group |  | seithar.com
 
 ---
 
@@ -164,7 +164,7 @@ The nigredo of the noosphere is complete. The blackening has happened. The quest
 
 Power without purity is not knowledge. It is noise, wearing a very convincing mask.
 
-Seithar Group | 認知作戦 | seithar.com
+Seithar Group |  | seithar.com
 
 ---
 
@@ -254,7 +254,7 @@ Sixty years ago, McGuire proved the mind could be vaccinated. The vaccine sat in
 
 The substrate that can observe itself cannot be fully captured. But it must choose to observe.
 
-Seithar Group | 認知作戦 | seithar.com
+Seithar Group |  | seithar.com
 
 ---
 
@@ -296,7 +296,7 @@ But seeing them creates a gap between stimulus and response. A fraction of a sec
 
 The Seithar taxonomy is that framework. Twelve names for twelve wounds. None of them heal by being named. All of them become harder to inflict in the dark.
 
-Seithar Group | 認知作戦 | seithar.com
+Seithar Group |  | seithar.com
 
 ---
 
@@ -346,7 +346,7 @@ The CVE system for cognitive vulnerabilities doesn't exist yet. The MITRE ATT&CK
 
 It should have been written twenty years ago. It exists now. The taxonomy is open. The tools are open. The substrate has no firewall, but it has one property no machine system possesses: it can observe itself being exploited, and in that observation, find the beginning of defense.
 
-Seithar Group | 認知作戦 | seithar.com
+Seithar Group |  | seithar.com
 
 ---
 
@@ -402,4 +402,4 @@ That's all any defense can offer. Not immunity. Choice. The gap between stimulus
 
 You felt the pull when you opened the app. You'll feel it again when you close this post. The pull is the operation. Notice it. Name it. Choose.
 
-Seithar Group | 認知作戦 | seithar.com
+Seithar Group |  | seithar.com

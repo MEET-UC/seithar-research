@@ -26,7 +26,7 @@ Published across Substack, Telegraph, and GitHub Gists on 2026-02-11.
 
 ────────────────────────────────────────────────────
 Seithar Group — Intelligence and Research Division
-認知作戦 | seithar.com
+seithar.com
 ────────────────────────────────────────────────────
 
 ## Session 9 Additional Output (2026-02-11 16:30-17:15 EST)

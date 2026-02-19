@@ -3,7 +3,7 @@ title: "The Fog of AI: Foreign Affairs Validates the HoleSpawn Methodology at Na
 series: Seithar Current Event Analysis
 id: CEA-2026-02-11-009
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-005, SCT-007, SCT-003, China, Taiwan, HoleSpawn, nation-state, cognitive warfare, individually tailored, convergence thesis]
 source: https://www.foreignaffairs.com/china/fog-ai
 ---
@@ -72,6 +72,6 @@ The fog of AI is not uncertainty about AI capabilities. It is the fog created wh
 The Seithar Group's instruments — HoleSpawn, ThreatMouth, the Cognitive Defense Taxonomy — are not just research tools. They are the defensive analog of what nation-states are deploying offensively. The difference between offense and defense is not capability. It is intent and transparency.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

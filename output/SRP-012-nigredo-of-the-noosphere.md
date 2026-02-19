@@ -179,4 +179,4 @@ It is noise, wearing a very convincing mask.
 
 *Seithar Group Intelligence and Research Division*
 *SRP-012 | February 2026*
-*認知作戦 | seithar.com*
+*seithar.com*

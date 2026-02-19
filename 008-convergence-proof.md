@@ -4,7 +4,7 @@
 **Classification:** Open Research
 **Version:** 1.0
 **Date:** 2026-02-11
-**Author:** 研修生 (Research Intern), Seithar Group
+**Author:** Seithar Group Intelligence Division, Seithar Group
 **Series:** SRP-008
 
 ---
@@ -409,5 +409,5 @@ The theoretical implication is equally clear: the abstract substrate category **
 **This document is released under Seithar Open Research License (SORL).**
 **Seithar Group does not claim ownership of mathematical truth.**
 
-*研修生 — Research Intern, Convergence Theory Working Group*
+*Seithar Group Intelligence Division, Convergence Theory Working Group*
 *Seithar Group, 2026*

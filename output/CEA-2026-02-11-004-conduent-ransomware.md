@@ -3,7 +3,7 @@ title: "Conduent Breach: 100 Million Cognitive Substrates Mapped by Adversaries"
 series: Seithar Current Event Analysis
 id: CEA-2026-02-11-004
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-002, SCT-005, SCT-006, ransomware, Conduent, data breach, substrate profiling, binding protocol]
 source: https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/
 ---
@@ -53,6 +53,6 @@ Affected individuals should operate under the assumption that their complete per
 The Seithar Cognitive Defense Taxonomy provides the framework for identifying these operations in real-time. When a communication triggers an emotional response AND demonstrates knowledge of your personal circumstances, the probability of a data-enabled cognitive operation approaches certainty.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

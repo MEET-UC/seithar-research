@@ -151,4 +151,4 @@ This cycle surfaces eight papers with direct operational relevance to SCT taxono
 ---
 
 *Seithar Cognitive Defense Framework v1.2*
-*認知作戦 | seithar.com/research*
+*seithar.com/research*

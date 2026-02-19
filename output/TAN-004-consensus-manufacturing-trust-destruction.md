@@ -3,7 +3,7 @@ title: "SCT-011 + SCT-004: Trust Destruction and Synthetic Consensus as Informat
 series: Seithar Taxonomy Application Note
 id: TAN-004
 date: 2026-02-18
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-011, SCT-004, trust infrastructure destruction, social proof manipulation, consensus manufacturing, belief injection, platform analysis]
 ---
 
@@ -108,6 +108,6 @@ Third, identify the recursive handoff point. At what stage did organic participa
 The hardest part of countering this pairing isn't technical. It's that the defense requires trust in something, and the attack has specifically targeted the target's capacity to trust. You can't fact-check your way out of an epistemological collapse. Rebuilding trust infrastructure is slower, harder, and less viral than destroying it. That asymmetry is the operator's primary advantage, and there is no known shortcut around it.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

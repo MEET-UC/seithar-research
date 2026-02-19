@@ -83,12 +83,12 @@ SIGNATURE = """
 ---
 
 *Seithar Group Intelligence & Research Division*
-*Mirai | Информатика | 認知作戰*
+*Mirai | seithar.com*
 *seithar.com | github.com/Mirai8888 | @SeitharGroup*
-*認知作戦*
+
 """
 
-SIGNATURE_SHORT = "\n空 — *Seithar Group — seithar.com — 認知作戦*"
+SIGNATURE_SHORT = "\n*Seithar Group — seithar.com*"
 
 
 def find_sct_codes(topic):
@@ -117,7 +117,7 @@ def generate_analysis(topic, sct_codes):
 
     return f"""# {topic} — Seithar SCT Analysis
 
-*Mirai | Информатика | 認知作戰*
+*Mirai | seithar.com*
 *Analysis Date: {datetime.now().strftime('%Y-%m-%d')}*
 
 ## SCT Classification
@@ -151,7 +151,6 @@ The operator who understands how influence works cannot be influenced unknowingl
 - Cognitive Threat Scanner: github.com/Mirai8888/seithar-cogdef
 - Full taxonomy: github.com/Mirai8888/seithar-research
 
-空
 {SIGNATURE}"""
 
 
@@ -165,7 +164,7 @@ def generate_tweet_thread(topic, sct_codes):
     ]
     if 'SCT-007' in sct_codes:
         tweets.append(f"The SCT-007 component in {topic}: the target becomes the transmission vector. Each affected substrate produces derivative content that enters the information environment, recruiting new substrates. The recursive loop is structural.")
-    tweets.append("The operator who understands how influence works cannot be influenced unknowingly. 空")
+    tweets.append("The operator who understands how influence works cannot be influenced unknowingly.")
     return tweets
 
 

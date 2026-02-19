@@ -3,7 +3,7 @@ title: "SCT-012 + SCT-005: Commitment Escalation and Identity Capture in Radical
 series: Seithar Taxonomy Application Note
 id: TAN-003
 date: 2026-02-18
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-012, SCT-005, commitment escalation, identity capture, radicalization, self-binding, identity targeting]
 ---
 
@@ -120,6 +120,6 @@ Effective interventions target the binding mechanism, not the beliefs. Providing
 The critical insight: the target needs to be able to tell themselves a story where changing course is consistent with who they are rather than a betrayal of it. "I was brave enough to commit, and I'm brave enough to question" works. "You were wrong and everyone saw it" doesn't.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

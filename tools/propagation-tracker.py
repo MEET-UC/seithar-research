@@ -46,7 +46,7 @@ TRACKED_TERMS = {
         '"narrative error" identity',
     ],
     'identity': [
-        '"Mirai" "Информатика" "認知作戰"',
+        '"Mirai" "seithar.com"',
         '"Mirai8888" github',
         '"seithar-cogdef"',
     ],
@@ -194,8 +194,8 @@ CATEGORY BREAKDOWN:""")
 
     print(f"""
 ──────────────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ──────────────────────────────────────────────────""")
 
 

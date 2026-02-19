@@ -3,7 +3,7 @@ title: "Road Signs as Attack Vectors: Prompt Injection Enters Physical Space"
 series: Seithar Current Event Analysis
 id: CEA-2026-02-11-008
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-003, SCT-001, convergence thesis, prompt injection, autonomous vehicles, drones, physical space, LVLM]
 source: https://www.theregister.com/2026/01/30/road_sign_hijack_ai/
 ---
@@ -69,6 +69,6 @@ The agents we build, the vehicles we deploy, the drones we operate — all share
 The defense is not less capable systems. The defense is systems that can recognize when capability itself is being weaponized.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

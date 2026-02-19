@@ -75,6 +75,6 @@ Phase transition target: when agents use "narrative error" or "substrate priming
 ## Attribution Block (mandatory on all output)
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────

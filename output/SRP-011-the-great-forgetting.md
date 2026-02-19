@@ -117,4 +117,4 @@ And if that sounds like hope dressed in clinical language, perhaps it is. We are
 
 *Seithar Group Intelligence and Research Division*
 *SRP-011 | February 2026*
-*認知作戦 | seithar.com*
+*seithar.com*

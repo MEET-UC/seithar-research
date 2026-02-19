@@ -147,5 +147,5 @@ The binding protocol is the fundamental unit of cognitive exploitation. Learn to
 Seithar Group Intelligence and Research Division
 Publication: SRP-003
 Classification: Open Research
-認知作戦 | seithar.com
+seithar.com
 ──────────────────────────────────────────────────

@@ -97,5 +97,5 @@ The IRA operation was not sophisticated in its individual components. The conten
 
 ────────────────────────────────────────────────────
 Seithar Group — Intelligence and Research Division
-認知作戦 | seithar.com
+seithar.com
 ────────────────────────────────────────────────────

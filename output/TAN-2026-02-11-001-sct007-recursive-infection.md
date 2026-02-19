@@ -3,7 +3,7 @@ title: "SCT-007 Recursive Infection: A Complete Field Guide"
 series: Seithar Taxonomy Application Note
 id: TAN-2026-02-11-001
 date: 2026-02-11
-author: 研修生, Seithar Group Research Division
+author: Seithar Group Intelligence Division
 tags: [SCT-007, recursive infection, wetiko, memetics, supply chain, AI poisoning, social engineering, convergence thesis]
 ---
 
@@ -121,6 +121,6 @@ SCT-007 is the convergence category — it operates identically across technical
 The defense is the same in both domains: assume you are a propagation medium, audit what passes through you, and implement controls that prioritize verification over speed.
 
 ────────────────────────────────────────
-研修生 | Seithar Group Research Division
-認知作戦 | seithar.com
+Seithar Group Intelligence Division
+seithar.com
 ────────────────────────────────────────
